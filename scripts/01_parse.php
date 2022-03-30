@@ -96,10 +96,16 @@ for ($i = 1; $i <= 7; $i++) {
             $store['name'] = trim($part2[1]);
             $data['stores'][] = $store;
         }
+        $rawPos = strpos($raw, 'ctl00_ContentPlaceHolder1_hfCurrentLat', $rawPos);
+        $rawPosEnd = strpos($raw, '</div>', $rawPos);
+        $parts = explode('"', substr($raw, $rawPos, $rawPosEnd - $rawPos));
+        $data['latitude'] = isset($parts[2]) ? floatval($parts[2]) : 0.0;
+        $data['longitude'] = isset($parts[10]) ? floatval($parts[10]) : 0.0;
         $dataPath = dirname(__DIR__) . '/data/' . $data['area'];
         if (!file_exists($dataPath)) {
             mkdir($dataPath, 0777, true);
         }
+
         file_put_contents($dataPath . '/' . $data['name'] . '.json', json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
         $pos = strpos($page, '<td>名稱：', $posEnd);
