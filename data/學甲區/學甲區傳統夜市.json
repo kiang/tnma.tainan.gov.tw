@@ -1,0 +1,53 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=29553a6b-46c7-4a4a-9395-3fae4e34c663",
+    "name": "學甲區傳統夜市",
+    "area": "學甲區",
+    "scope": "小吃、其他、其他",
+    "address": "學甲區天水路30號",
+    "phone": "-",
+    "time": "每週三晚間16:30~24:00",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200811083347248.jpg",
+    "story": "設置於天仁工商周邊，為許多民眾闔家夜晚休閒的好去處。",
+    "built": "107年",
+    "background": "每週三晚間16:30~24:00營業，約有150攤，主要以熟食攤為主，另外也有百貨及遊戲攤位。",
+    "feature": "榮獲108年度優良市集1星認證",
+    "count_stores": 150,
+    "category": "主要以熟食攤為主，另外也有百貨及遊戲攤位。",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=1a196188-29ef-4373-a4e7-64c9de663dff",
+            "no": "-",
+            "name": "職人手作の煎餅"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4f49321f-55a6-4f9a-b170-e072e7bdeecd",
+            "no": "-",
+            "name": "冰桌黑糖飲嫩仙草"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=65396efc-de4f-4f72-9cb1-1b96a6a35972",
+            "no": "-",
+            "name": "佳旺脆皮章魚燒"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=107010ee-f76d-432d-9e0b-2b866d9edce0",
+            "no": "-",
+            "name": "拔絲地瓜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5e49baef-6b41-408b-8c44-d584dfa56cc7",
+            "no": "-",
+            "name": "傑現做旗魚黑輪"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=6be27ab9-ff49-4566-afb4-6543d52bbd9f",
+            "no": "-",
+            "name": "黃金魚蛋"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0b9bf395-b4b0-432d-a0e5-57a454065086",
+            "no": "-",
+            "name": "酷酷香腸炒米腸"
+        }
+    ]
+}

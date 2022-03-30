@@ -1,0 +1,28 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=1df16d42-e5ae-4330-ba78-dd83db49772f",
+    "name": "仁德中洲公有零售市場",
+    "area": "仁德區",
+    "scope": "",
+    "address": "臺南市仁德區中洲里中洲路274號",
+    "phone": "06-2796881",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812041119064.jpg",
+    "story": "無",
+    "built": "民國75年",
+    "background": "民國74年提報興建，75年啟用。",
+    "feature": "榮獲109年度優良市集1星認證",
+    "count_stores": 13,
+    "category": "畜肉類、水產類、果菜類及飲食類商品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=7ef8fdfe-dc1b-4a4d-bcf1-5ab41c689060",
+            "no": "22",
+            "name": "22號攤張玉秀"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=7329d542-c5b6-4ce7-abfe-0f1eb2060e53",
+            "no": "5",
+            "name": "5攤黃蔡貴蘭"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=c54ad0f0-a08d-4479-a482-eba36e536bdd",
+    "name": "和順公有零售市場",
+    "area": "安南區",
+    "scope": "",
+    "address": "臺南市安南區安中路一段710號‎",
+    "phone": "06-2478636",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812041301107.jpg",
+    "story": "本市集原本係安中路一段中華電信對面私人土地上之集合攤販，於民國73年9月8日遷入和順公有零售市場營業。",
+    "built": "民國73年。",
+    "background": "和順市場處於安南區安中路一段和順國宅位置，是鄰里居民每日採購日常蔬果與生活用品的最佳地點。此外，每週三、週六晚上亦有夜市攤販聚集於此。",
+    "feature": "榮獲107年度樂活市集1星認證\n榮獲109年度樂活市集2星認證",
+    "count_stores": 64,
+    "category": "果菜類商品。",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=8914d925-889e-46db-b71a-aa35015cf0e3",
+            "no": "1",
+            "name": "丫燕素食"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=799cc3fe-5f40-4394-9eb3-9c79790646e7",
+            "no": "15",
+            "name": "娟娟服飾"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=157f1279-164c-4057-8e55-2ef53ba9e143",
+            "no": "16",
+            "name": "素花鮮果"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2c937112-38b2-43c3-b405-dce40eea5b7c",
+            "no": "19",
+            "name": "三花刈包"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=9e14ffb2-fe72-4bc1-a916-35742a8a2be6",
+            "no": "22",
+            "name": "進福鮮魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=dc30c7d3-7bf2-4416-9ceb-62ce39eb5782",
+            "no": "29",
+            "name": "樂農果園"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=1ffd07e3-2e51-4ab3-a00c-e8e634d1571f",
+            "no": "3",
+            "name": "美好海產"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=45c5853b-afe5-40d4-966f-633f114b13f4",
+            "no": "31",
+            "name": "甕烤地瓜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2d638034-ef50-41f6-b19e-9e8b05faf158",
+            "no": "33",
+            "name": "董家水煎包"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=05cd7f83-32a2-4a0f-8d17-5c6ba1b2681c",
+            "no": "43",
+            "name": "彤童裝小舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=48b7b780-2304-4031-8960-821bb9b3321b",
+            "no": "48",
+            "name": "毛毛媽滷味"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b43705bc-9c16-4a84-8c20-4a9226069fff",
+            "no": "5",
+            "name": "健康素食"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d351ebf6-f5f9-43ab-bb6d-f3da422996d4",
+            "no": "59",
+            "name": "韓國精品"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=350495f0-3d9d-4c90-996e-8c8c9d1cf4c0",
+            "no": "7",
+            "name": "阿惠素食"
+        }
+    ]
+}

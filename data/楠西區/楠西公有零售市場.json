@@ -1,0 +1,68 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=db4aef6a-1f9c-4e1d-bf57-848bda52b45c",
+    "name": "楠西公有零售市場",
+    "area": "楠西區",
+    "scope": "",
+    "address": "臺南市楠西區東勢路125號",
+    "phone": "06-5731605",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812043030827.jpg",
+    "story": "本市場原本位於楠西農會旁邊，民國56年時，因適逢曾文水庫興建，榮工處攜家帶眷遷居楠西，人潮可說車水馬龍，光學生人數就三千多人，學校空間不敷使用，甚至必須分成早上班與下午班上課；而市場空間亦不敷使用，當時的鄉公所為因應增加的人潮，遂規劃興建現有的公有零售市場\n本市場於民國57年8月動工興建，隔年11月啟用，攤位72個、店舖50間，人潮、生意盛極一時。惟民國六十二年曾文水庫完工後，人潮漸漸散去，已不復往年榮景，只能在過年過節時略為窺見當年的風光。\n目前楠西公有零售市場，成為一個滿足當地居民生活的市場，雖有部分店家處於休息狀態，但是商品種類仍相當多元，從早餐飲食類、蔬果類、豬雞魚肉類、五金雜貨、服飾類，連美髮、牙科都有，有些甚至已經是第二代接手經營了。\n楠西公有零售市場雖非很熱鬧的市場，但攤商們都相當熱情，若想感受楠西在地生活風情，也不妨下車，走進市場感受看看。",
+    "built": "民國58年",
+    "background": "1.攤販數：總共122個(包含攤位72個、店舖50間)\n2.主要販售：早餐飲食類、蔬果類、豬雞魚肉類、五金雜貨、服飾類，美髮、牙科等等。",
+    "feature": "本市場是供應楠西區居民日常生活所需的重要據點，雖已不復民國六零年代的榮景，但商品種類仍相當多元。只要楠西區還存在，楠西公有零售市場就不會消失，在本市場中，能感受到濃濃的在地風情。\n榮獲109年度優良市集1星認證",
+    "count_stores": 121,
+    "category": "飲食類、蔬菜類、肉類、雜貨類和服飾類商品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d097dad9-82ec-4d27-8cc8-76150acdd519",
+            "no": "18",
+            "name": "棋雞"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e13e8395-c20f-425a-9c1a-374484b3952b",
+            "no": "54",
+            "name": "蔬果攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a346e495-5350-4935-9530-471b4f75d70b",
+            "no": "56",
+            "name": "咕咕雞"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=9fc48aba-f574-4f89-b124-51be747b838c",
+            "no": "58",
+            "name": "阿春海產"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2ed4c7aa-65f6-444a-838b-c8fa6ef063d7",
+            "no": "59",
+            "name": "良美野放走山雞"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=df1d02d0-a2f2-4e53-b880-2b04c5681e47",
+            "no": "鋪乙01",
+            "name": "阿勉海產粥"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=260f587b-c913-42f1-be5b-88acb37e5902",
+            "no": "鋪乙11",
+            "name": "阿昭牛肉麵"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=6c6c4f3d-9c02-4e8b-a88e-e6f25788227d",
+            "no": "鋪甲09",
+            "name": "楠西肉圓"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=6bcdac58-7dec-49a4-9a84-1a0d93bd06c0",
+            "no": "攤63",
+            "name": "華英服飾"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2b58fe12-14b7-453f-a0f2-c7643eda5114",
+            "no": "攤70、71",
+            "name": "萬珍餅行"
+        }
+    ]
+}

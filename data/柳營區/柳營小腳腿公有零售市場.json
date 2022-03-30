@@ -1,0 +1,33 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=0edc9247-94b2-42c1-a9bd-aeb02e52bb6c",
+    "name": "柳營小腳腿公有零售市場",
+    "area": "柳營區",
+    "scope": "蔬菜、豬",
+    "address": "臺南市柳營區篤農里229之2號",
+    "phone": "06-6802602",
+    "time": "6",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812044202888.jpg",
+    "story": "重溪攤販集中場位在小腳腿，現已正名為小腳腿公有零售市場，到市區有點距離，為了讓當地居民可以就近買菜，故在這個小村落成立一個攤販集中場，除可以讓流動攤販有固定的區域來擺攤，也方便村民買菜。因為小腳腿為傳統農村，人口外移嚴重，故攤販集中場攤販數不多，僅有果菜類、肉品類的攤販。",
+    "built": "民國82年",
+    "background": "總規劃攤位數僅有五攤，現出租3攤，其餘攤位提供約10幾位不同的日租型攤販依不同日期輪流擺攤販賣。",
+    "feature": "小腳腿羊肉，全台最好吃的羊肉店在此；德元埤荷蘭村，不收門票，停車場蠻大的，園區很大，而且還有一個露營區，令人讚嘆的田園景致；名聞全台的尖山埤江南渡假村，屬台糖旗下的江南渡假村，腹地寬廣，除了提供住宿之外，還有小火車、畫舫、露營、烤肉等休閒設施。\n榮獲109年度樂活市集2星認證",
+    "count_stores": 5,
+    "category": "肉品類、蔬果類",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=095fa12f-26db-449c-bb8d-18ada99bf7b9",
+            "no": "1",
+            "name": "黃秋芬蔬果雜貨攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=fe3834a1-7b1c-4359-9189-65c61b68516c",
+            "no": "2",
+            "name": "陳翠花豬肉攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=712a5090-4daf-46d1-ae10-6207b25050c8",
+            "no": "4",
+            "name": "黃振雄果菜攤"
+        }
+    ]
+}

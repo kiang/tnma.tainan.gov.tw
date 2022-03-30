@@ -1,0 +1,108 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=fd0605e2-b259-4a0e-bd73-bee59fec366b",
+    "name": "仁德公有零售市場",
+    "area": "仁德區",
+    "scope": "蔬菜、水果、其他、小吃、其他、海產、水產、其他、豬、牛、羊、其他、衣物、飾品、鞋、其他、南北乾貨、其他、雞、鴨、鵝、其他、花卉、化妝品、保養品、舶來品、其他",
+    "address": "臺南市仁德區正義一街39號",
+    "phone": "06-2796881",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812043336638.jpg",
+    "story": "早年鑑於仁德區內尚無公有零售市場，本地民眾居家生活購物不便利，遂由鄉公所構思提報興建計畫，爭取中央補助興建，仁德市場遂於民國86年興建完成。\n仁德市場屬於傳統的早市市場，販售豐富的商品，蔬菜魚肉、鮮果、服飾、五金百貨應有盡有，提供鄰里厝邊採買食材與必需品的好去處。",
+    "built": "民國86年12月啟用",
+    "background": "仁德市場相當重視環境的美化，隨處可見用心的布置，並且設有許多綠色植栽，更有整面的植栽牆，環境通風明亮，非常乾淨。另外，市場還有設置機車停車場，方便顧客購物使用，亦設有客服中心，隨時處理顧客問題。",
+    "feature": "1. 榮獲101年優良市集2星認證。\n2. 榮獲102年優良市集3星認證。\n3. 榮獲102年度臺南市優良公廁評比第一名。\n4. 榮獲103年綠色市集認證。\n5. 榮獲107年優良市集2星認證。\n6. 榮獲109年優良市集2星認證。",
+    "count_stores": 87,
+    "category": "肉類、果菜類、飲食類、服飾類商品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a626efd7-1601-4485-a187-178b66e431a2",
+            "no": "1",
+            "name": "臺灣生鮮黑山豬肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=bd72bb02-3076-427c-acd5-faa6dec54f87",
+            "no": "12",
+            "name": "全美行蔬菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=34a58a68-a503-4a9e-bb62-c4977fefae28",
+            "no": "13",
+            "name": "山中林跑山雞"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=64a0d536-a278-4790-9f56-7259fa720f9d",
+            "no": "17",
+            "name": "168放山雞"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=6ef1a186-aa8f-4448-b4e6-e3f38e07dd95",
+            "no": "20",
+            "name": "興達港現撈海產"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f79fbf83-9074-40ef-bfe5-4cc2e78c432e",
+            "no": "21",
+            "name": "尚好正山雞"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0843465c-26e4-4e2c-8ceb-44300a51d375",
+            "no": "33",
+            "name": "阿華麵店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=cde65f03-29df-498e-b5b3-3ccea7c40c26",
+            "no": "34",
+            "name": "阿菊水果屋"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=1305d68d-dbae-458d-ad39-80716841ac3d",
+            "no": "4",
+            "name": "好季水果行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ec992aed-bbf5-4c41-ba1d-3af0635a2fd5",
+            "no": "48",
+            "name": "合成水果行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=db4b4c43-960d-42e1-bfa7-3e1052248508",
+            "no": "51",
+            "name": "雅峰食品"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5522116e-9bba-47aa-99f4-0fbdb3df72f4",
+            "no": "55",
+            "name": "忠義藝品"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0b0aba90-b365-4918-80f8-1012cf5534ca",
+            "no": "63",
+            "name": "郁華日港韓精品服飾"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2fc75ac8-799e-4bdf-9bfa-c8fa7c013aeb",
+            "no": "67",
+            "name": "喬品登蛋糕囍餅麵包坊"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=543adc82-5725-420c-a0e0-162c13843d2a",
+            "no": "76",
+            "name": "美の生活小舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b9733390-157b-41b4-8bd4-c83342b93aee",
+            "no": "83",
+            "name": "耕心園"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=971fe07c-ea34-4b7d-8b9c-82f436703b8c",
+            "no": "85",
+            "name": "秀惠藝品"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=45d465ca-c777-4354-bac7-f73b2d683488",
+            "no": "86",
+            "name": "AMY現代服飾"
+        }
+    ]
+}

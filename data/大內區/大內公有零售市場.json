@@ -1,0 +1,53 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=1f65c064-fd07-4fed-a633-418e0043992d",
+    "name": "大內公有零售市場",
+    "area": "大內區",
+    "scope": "蔬菜、水果、小吃、海產、豬、小吃",
+    "address": "臺南市大內區大內里1-49號。",
+    "phone": "06-5761225",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812034643384.jpg",
+    "story": "大內市場成立於民國86年，舊市場原座落於大內農會附近，民國83年間因發生火災而毀損，現址於民國86年以建商合作的方式興建完成。新市場採用回字型設計，建物中央為市場，外圍則是私人店住，內外集市，活絡商機。",
+    "built": "民國 86年",
+    "background": "本市場為一般傳統零售市場，供應區民日常食材，魚蝦水產、禽畜肉品、新鮮疏果及餐飲等物品，營業時間為清晨4點至中午11點，屬早上市集，目前規劃49攤，主要販售：魚蝦水產、禽畜肉品、新鮮疏果及餐飲。攤位規劃整齊，動線流暢。",
+    "feature": "榮獲107年優良市集2星認證\n榮獲109年優良市集3星認證",
+    "count_stores": 49,
+    "category": "魚蝦水產、禽畜肉品、新鮮疏果及餐飲。",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d01f66bc-4c62-49a1-aa0d-e4dba40a9b12",
+            "no": "D05",
+            "name": "大內煎餃、鍋燒意麵"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=9c8ab49d-03ce-4abc-95d2-923c157808a3",
+            "no": "D08",
+            "name": "祥雞肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5ac02b7d-dda3-4c4f-a3e9-89df9d53c869",
+            "no": "E17.E18",
+            "name": "大內豆菜麵"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=bd95705c-be88-472c-ae4b-3fa90909f60d",
+            "no": "F04、F05",
+            "name": "元豬肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f5944b76-088a-4f61-abfe-87d4f92e8dbf",
+            "no": "F10",
+            "name": "賢雜貨"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=8c3a8250-2b97-4528-8b6b-cdc6bd71774c",
+            "no": "F12、F13",
+            "name": "美雪豆菜麵"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=19c7db13-c5ae-4df2-8ae0-00bdaf59e284",
+            "no": "G03",
+            "name": "隨緣素食"
+        }
+    ]
+}

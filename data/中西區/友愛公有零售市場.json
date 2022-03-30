@@ -1,0 +1,93 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=3a1ff0a2-1bac-4082-99df-96d0e8daa2d2",
+    "name": "友愛公有零售市場",
+    "area": "中西區",
+    "scope": "",
+    "address": "臺南市中西區友愛街117號",
+    "phone": "06-2615532",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812033956307.jpg",
+    "story": "友愛市場現址乃係經搬遷過的，原先是在現今忠烈祠的位置，後來政府規劃忠烈祠的建設後，便將當時的攤販搬遷到現今的位置。\n友愛公有零售市場為民國35年所建，因市場攤販眾多，影響交通，故一分為二，將部份攤商遷往大溝頂，即為現保安市場之前身，現使用之友愛市場為民國62年3月興建竣工，曾在民國98年獲經濟部補助經費做外觀美化工程，因此外觀相較於其他市場，顯得較有規劃、新穎，此外，並備有地下停車場供使用。",
+    "built": "民國35年所建",
+    "background": "1.蔬菜類:    3   攤   2.青果類:   3    攤   3.獸肉類:  5     攤\n4.禽肉類:  2     攤   5.漁產類:  7     攤   6.飲食類:  11     攤\n7.百貨類:   3    攤   8.雜貨類:   1    攤   9.糧食類:       攤\n10.花卉類:       攤  11.調理加工食品類:   2    攤\n12.其他:   1    攤，說明:    修理鞋子等",
+    "feature": "108年度榮獲優良市集1星認證\n109年度榮獲優良市集2星認證",
+    "count_stores": 87,
+    "category": "果菜類、畜肉類、雜貨類等",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=8963fbaf-baef-4c6a-8abb-f9b3274e1691",
+            "no": "11",
+            "name": "V&J廚房"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c33d068e-97ea-4e63-9a02-408730d27ddb",
+            "no": "13",
+            "name": "阿全碗粿"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=53114907-1c3b-4e5f-bd6c-f0488762006c",
+            "no": "17",
+            "name": "友愛百貨"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=040bb930-fbf8-444b-a230-d2271af62ce1",
+            "no": "18\/19",
+            "name": "友愛紅豆"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f340d728-e1fe-4cbd-9a55-d2d354814d35",
+            "no": "29",
+            "name": "馬綿水果攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ef3a1aa5-8ec8-4ffd-bb09-c79071eb4a48",
+            "no": "51\/52",
+            "name": "泰式創意料理"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=8306d140-d382-4d8f-8177-0659caf19cc6",
+            "no": "58",
+            "name": "顏九年麻辣小舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4dbc0008-efc2-4e52-9b4c-c2eb34e9e11c",
+            "no": "65\/66",
+            "name": "美慧服裝"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=6e775240-2793-4848-a47b-8c232b6ca221",
+            "no": "70\/71\/72",
+            "name": "友愛早餐"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5d7627de-043a-42ed-ab7f-869f97f95e6b",
+            "no": "73\/74",
+            "name": "阿祥手工魚丸"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3d431b07-bccd-464e-92e4-0e57f8f457b7",
+            "no": "75",
+            "name": "觀光城泡麵"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=048ddfb9-d319-4d7b-a6b7-7ee0a716762f",
+            "no": "75",
+            "name": "慢燉有愛"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=274f182e-f046-4992-b8c4-c5ab8b9b91ab",
+            "no": "76、77",
+            "name": "蔡家蔬菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=fe1208cc-9fe5-4e47-9cf5-ca42bfac094b",
+            "no": "81",
+            "name": "郭家粽子"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=94a18747-ffc7-423f-a0a5-26f820edd1cc",
+            "no": "83",
+            "name": "大台北魷魚羹"
+        }
+    ]
+}

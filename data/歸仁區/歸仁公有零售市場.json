@@ -1,0 +1,188 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=1404c945-b872-44bf-a46d-85f5ae44f62a",
+    "name": "歸仁公有零售市場",
+    "area": "歸仁區",
+    "scope": "",
+    "address": "臺南市歸仁區和平南街9號",
+    "phone": "06-2393323",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20190421022454283.jpg",
+    "story": "本市場民國79年8月興建完工並於當年12月25日開始營業至今。期間經承包商倒閉停工再第二次招標由統盛營造有限公司建造完成。",
+    "built": "民國79年",
+    "background": "本市場規劃有蔬菜區、魚類區、水果類區、肉品類區、店舖服飾精品類共7區，營業種類多",
+    "feature": "1.榮獲107年優良市集1星認證。\n2.榮獲108年優良市集2 星認證。",
+    "count_stores": 177,
+    "category": "肉類、魚蝦類、飲食類、蔬菜類、百貨類、服飾類商品。",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d2f9175b-a52b-4a60-8fcc-55d32a9f4cef",
+            "no": "A1",
+            "name": "女人的店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=35961fbf-ea1a-427b-b489-c14a10324d98",
+            "no": "A10、A11",
+            "name": "寶美工作室"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=153f5be9-5c75-4673-8ee2-a5f000566aa7",
+            "no": "A12",
+            "name": "櫻桃百貨"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4c488f2d-798d-4143-8f16-665f519a78dc",
+            "no": "A16",
+            "name": "阿惠南北貨"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2c5f2041-2281-4c7f-ae97-28496d7aad87",
+            "no": "A18",
+            "name": "豐益藝品"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0be54d89-e9ad-41d4-aba7-485c34cb37a5",
+            "no": "A24",
+            "name": "鳳凰精品店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b771a66f-f2e3-498f-a9c7-3389a241dab9",
+            "no": "A25",
+            "name": "尚美精品屋"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=482e6d33-e59d-4124-9063-3cde03e67862",
+            "no": "A26",
+            "name": "穎佳美天然水晶"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0077078a-aaba-40f0-b5d2-526c7c24ee53",
+            "no": "A27",
+            "name": "上格精品屋"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d46a4c07-244c-4404-8016-9d353b782e6f",
+            "no": "A3",
+            "name": "佳美珠寶銀樓"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f78ac775-4d57-44a8-97a7-631a329a7f8d",
+            "no": "A30",
+            "name": "彩彤坊"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e2f55d38-d4c6-4447-b2e8-ca0fc359aea3",
+            "no": "B10",
+            "name": "春美春捲"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=06f7d891-081b-4fb2-941c-cf65733f97b8",
+            "no": "B26",
+            "name": "寶美蔬菜攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=77a39b86-039d-41e1-9c23-2a9e3fc19109",
+            "no": "C12",
+            "name": "篡味"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=9acfb2a2-47b6-47b1-9648-b9a72f54ee6b",
+            "no": "C27",
+            "name": "彬.生鮮現撈海貨"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c727bb08-7ec5-4fe7-9c78-af9b4c7d0346",
+            "no": "C6",
+            "name": "治霖道地小攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3f178c97-0786-42c3-ab74-6e5e2bb18b2e",
+            "no": "C9",
+            "name": "萬味囍餅蛋糕"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f7fe7c33-6c44-4fcd-968a-f34c4831279e",
+            "no": "D5",
+            "name": "賣魚明"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=39ec52b4-c448-46f9-b8dc-0a8978fdefbe",
+            "no": "D6",
+            "name": "徐家自產農產品"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=32c5aa69-ce1b-411b-9648-deeae1ae3ac3",
+            "no": "D7",
+            "name": "鱻燒"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c0bf29c4-011b-4e52-a28b-67f8b8594c1a",
+            "no": "E3",
+            "name": "玉米嫂仔"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a79343a2-1367-43b6-9c85-a5fae20999c4",
+            "no": "E4",
+            "name": "謝家農產品"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=31caa8c8-9e6e-421a-889c-69b80bfc74d2",
+            "no": "F2",
+            "name": "日精蛋品專賣"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=71dfc088-628a-4a9d-86e7-d695873c54cf",
+            "no": "F5",
+            "name": "張家香食品屋"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f48cd47b-1d24-43b6-918e-b2b0fc8de3ef",
+            "no": "F9",
+            "name": "三成號"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2e8d37a4-c6d6-49a9-b3af-0e851f22a61f",
+            "no": "G11",
+            "name": "阿中菜攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=8c499fbc-d040-4ba6-93fd-9cbe2689b3ae",
+            "no": "G12",
+            "name": "明華軒素食品"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=9c0fe953-4fc9-4e56-a92d-d9a2d794e111",
+            "no": "G13",
+            "name": "這位太太"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ab209830-2c05-414d-a2e9-4cc323ea9ff9",
+            "no": "G15",
+            "name": "陳家鍋燒"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=12eb59d8-55ee-4fb8-bdd2-a18af040c655",
+            "no": "G16、G17",
+            "name": "謝清受蚵仔粥"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e2bf82aa-7ce6-444a-b581-121345e72910",
+            "no": "G25、G26、G30、G31",
+            "name": "施家羊肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=66f0d8e9-2f2e-4076-b753-5d545e5b4397",
+            "no": "G6、G2",
+            "name": "霞記肉圓"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0e5193b3-db4a-4d4b-b98a-d24e43c1593d",
+            "no": "G7",
+            "name": "汶珠米粉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=06b4c4ee-2458-47e0-8d76-3960528defa3",
+            "no": "G8",
+            "name": "銘記煎裸"
+        }
+    ]
+}

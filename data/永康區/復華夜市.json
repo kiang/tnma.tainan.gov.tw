@@ -1,0 +1,118 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=84000b42-04aa-4edc-88a7-f53c52e1a221",
+    "name": "復華夜市",
+    "area": "永康區",
+    "scope": "小吃、衣物、飾品、小吃、化妝品",
+    "address": "永康區復國一路與復華三街交叉口",
+    "phone": "06-3130841",
+    "time": "二、五晚上",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812034155123.jpg",
+    "story": "以前是為全臺南人口總數為前三名的里，許多店家開始在路邊做起小買賣，慢慢的攤商數增加而形成了一個小型市集，就是現在大家所熟知的復華夜市雛形。",
+    "built": "1999",
+    "background": "每週二、五晚間16:00~23:30營業，腹地廣大約1000多坪，規劃許多汽機車停車格，同時也給予許多特殊的攤位在此擺攤，像是平常在戶內空間才吃的到的石頭火鍋，也可以在這裡吃的到，主要以小吃、生活用品、服飾及遊戲為主。民國88年10月，復華夜市正式開張。許多客源都還是來自附近的住戶，濃濃的人情味環繞在四周。許多店家的客人都是從小吃到大，甚至也有生過小孩，帶著他們回到夜市來回味的過去熟悉的滋味；為了保持住夜市的水準，管理委員會禁止有關博弈遊樂器材的商家進駐，引進相關大型充氣溜滑梯以及許多大小朋友都愛玩的相關遊樂設施。使這裡充滿著歡樂的氣息，表現出台南人最為樂觀的一面。",
+    "feature": "榮獲108年度優良市集2星認證\n榮獲109年度優良市集3星認證",
+    "count_stores": 30,
+    "category": "小吃、生活用品、服飾",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=57914714-e144-4008-81b6-382b7481845a",
+            "no": "-",
+            "name": "小虎子雞蛋仔"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c0dc346b-cd91-4fd0-aa88-e0fef2aa54b3",
+            "no": "-",
+            "name": "杯蓋帶著走"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4265738d-48c1-4b3e-947d-5e3140bc60d0",
+            "no": "-",
+            "name": "賢食堂"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=573c5c67-5afb-427b-9cf3-3ff3ed8b9ad5",
+            "no": "-",
+            "name": "米果創意調飲"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4be09e26-618c-4549-ab17-66b928069a9f",
+            "no": "-",
+            "name": "小叮噹鐵板燒"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5ccf082d-ce6b-490c-9e1f-3950b6567bfa",
+            "no": "-",
+            "name": "北門蚵記仁燒烤車"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=db047bfa-39b3-4936-ad96-674b911068c1",
+            "no": "-",
+            "name": "地瓜球"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=88f36e4f-cfcf-430c-a2c0-8119d41921f0",
+            "no": "-",
+            "name": "沙果王子"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c8bcc2bf-718e-4893-b3d0-6765230e72a8",
+            "no": "-",
+            "name": "茶街雞腳號"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=66cf8ad1-c34c-4aea-b4e9-f5e97d5a4c7d",
+            "no": "-",
+            "name": "錢記燒烤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=da4690c5-a8e7-4b3a-aef1-a4f4c2a780b2",
+            "no": "-",
+            "name": "羅媽媽手工雙醬涼麵"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5dedfea0-20c6-4f7c-903e-b4b8e36efc27",
+            "no": "-",
+            "name": "沙威瑪"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=94641687-18f4-4fee-9b5c-885579934b27",
+            "no": "-",
+            "name": "圓心無骨豆乳雞"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b5bc0bf7-65ac-4ee3-be5d-21660be9131e",
+            "no": "-",
+            "name": "金村爆炸大魷魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=cf7f0d42-de84-4d11-9389-21676585d975",
+            "no": "-",
+            "name": "饌爺起司炒泡麵"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2c8cf402-28da-42d3-a999-eed03193fd6f",
+            "no": "-",
+            "name": "芭樂姐姐"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c60002c7-804f-4f05-9293-43f168b190a0",
+            "no": "-",
+            "name": "酒鬼"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=919c4fec-0529-4e5d-9995-633688527d2f",
+            "no": "-",
+            "name": "捉妖餓站"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0c2033f4-11cb-4736-be3e-ec71533039f3",
+            "no": "-",
+            "name": "皇家牛排"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=872f6f22-a4cd-4531-8bda-9e96b460cd40",
+            "no": "-",
+            "name": "阿碩鱔魚意麵"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=59e37619-d5ca-4967-9f2b-837e03901cc7",
+    "name": "西門公有零售市場",
+    "area": "中西區",
+    "scope": "",
+    "address": "臺南市中西區西門路二段177號",
+    "phone": "06-2201040",
+    "time": "早市；布市10:30後營業",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812033942032.jpg",
+    "story": "西門市場興建於日明治三十八年(西元1905年)，完工不久即毀於颱風，日本政府遂於原地重建，在大正九年(西元1920年)完成，佔地3871坪，是當時全台灣最大的公有市場，俗稱「大菜市」，從蔬果批發販賣，再演變到布料市集開創60~80年代的成衣全盛時期，目前仍然是以布料、輔料為主的商場，曾經號稱為台灣的三大布市(台北迪化街、彰化小西街、台南大菜市)。",
+    "built": "日明治三十八年(西元1905年)",
+    "background": "西門市場興建於日據時期，為明治三十八年(西元1905年)所成立。",
+    "feature": "西門市場即為台南著名的大菜市，在台南具有歷史悠久的地位，傳統的菜市裡頭隱藏著許多美食，是許多饕客朝聖的地方。除此之外．該市集以布料及輔料為主，是早期台灣的三大布市之一。\n榮獲109年優良市集3星認證",
+    "count_stores": 218,
+    "category": "布料、輔料為其主要販售商品，尚有果菜、魚蝦、飲食及雜貨等商品。",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c7f9ba91-de71-4771-9666-a4051e5525a0",
+            "no": "-",
+            "name": "乃樺訂製"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=57ade346-17a5-40a0-9dde-0674ff43d5bb",
+            "no": "-",
+            "name": "安正西服"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=8da76a85-c1ba-4b1d-bb86-aca70369efd5",
+            "no": "-",
+            "name": "大帥布莊"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=dc838aa1-beb7-4d16-8c75-1df8b010045b",
+            "no": "-",
+            "name": "萬龍布莊"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f3894d07-6c1e-4098-ad6e-c13fb26de157",
+            "no": "227",
+            "name": "哞熹哞熹飲品"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b2f956cf-0fc8-431c-8ab8-9eb3d21c531f",
+            "no": "227",
+            "name": "福榮小吃店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=58046f8c-a46f-43e8-831f-646c064bb063",
+            "no": "230",
+            "name": "Chun純薏仁甜品"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=537db88d-baec-46a0-a63d-6953f3d5e8cd",
+            "no": "246",
+            "name": "杏本善"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=903457e0-cf06-49c1-9c87-defeb151fb82",
+            "no": "249",
+            "name": "雞腿三兄弟"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=53b9540e-c316-45e9-b64b-e3fcd25a522c",
+            "no": "251",
+            "name": "甘心樂意"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=82f4238d-7dde-417e-97bc-b6fbcd0b73cb",
+            "no": "無",
+            "name": "江水號"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a1fe4ac8-f841-4b15-820a-6e0e8c3b1090",
+            "no": "無",
+            "name": "鄭記土魠魚羹"
+        }
+    ]
+}

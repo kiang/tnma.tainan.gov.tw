@@ -1,0 +1,203 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=ddbde8cf-2460-4051-b283-2b6d66c4d11b",
+    "name": "新市公有零售市場",
+    "area": "新市區",
+    "scope": "蔬菜、水果、小吃、海產、水產、豬、牛、羊、衣物、飾品、鞋、南北乾貨、五金陶瓷、罐頭、雞、鴨、鵝、花卉、化妝品、保養品、舶來品、其他",
+    "address": "台南市新市區中正路366號",
+    "phone": "06-5897427",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20170406094537799.JPG",
+    "story": "初期是以搭帆布鐵皮屋在永安宮媽祖廟前營業，自白河大地震倒塌後，移至媽祖廟後面以水泥建築簡單平房營業，民國77年市場因興建已久，且場地過於狹窄、採光不足，又因建築物由多座棚架組成，無法容納攤販使用，使得攤販四處擺設，零亂不堪，為維護市容、改善交通秩序，乃興建鋼筋凝土結構市場。",
+    "built": "民國77年",
+    "background": "早期搬運產物往台南府之人，因途中休憩無處買食，鼓勵當地住民零售食物，逐漸形成一條街市。民國76年8月興建，77年12月啟用。",
+    "feature": "1.榮獲臺南市市場處109年臺南市公有市場環境整潔維護競賽第一名。\n2.榮獲經濟部108年4星優良市集。\n3.榮獲經濟部106年4星優良市集。\n4.榮獲經濟部104年4星優良市集。\n5.榮獲經濟部103年4星優良市集。\n6.榮獲臺南市市場處：103年臺南市公有市場環境整潔維護競賽第一名。\n7.榮獲經濟部102年4星優良市集。\n8.榮獲經濟部101年綠色市集認證。",
+    "count_stores": 110,
+    "category": "肉類、魚類、蔬菜類、飲食類及雜貨類商品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d2977647-3ecf-4169-ae4f-0d4bc88b9a60",
+            "no": "1",
+            "name": "利吉金紙行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4e08d45a-0d41-46c7-958d-909f70a9c5f7",
+            "no": "10",
+            "name": "凱麗精品服飾"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=28940af5-422c-4c65-a4b2-ea69a8962469",
+            "no": "101",
+            "name": "莫尼卡精品服飾"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=17b43189-2865-42be-8111-b0d0a05c72da",
+            "no": "102",
+            "name": "茂園水果"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=efe25cf5-cd68-4405-8314-3fe921f904ba",
+            "no": "14",
+            "name": "姊妹服飾"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5fe38eb0-e348-4033-abe0-387f2fa9e201",
+            "no": "20",
+            "name": "喬河內河粉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=33042532-d077-4bb0-a232-29e2d0c3ed55",
+            "no": "21",
+            "name": "阿欣越式料理"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a177e294-ce96-4564-9361-a74c6df5de89",
+            "no": "22",
+            "name": "阿欣越式料理雜貨"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=9f51d351-99dc-4aa3-94b0-fb09649d177c",
+            "no": "3",
+            "name": "石觀音芙蓉茶"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5b8de37d-824d-43fb-8daf-11964d3abfc5",
+            "no": "31",
+            "name": "甜蜜蜜水果行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d11a8470-313c-4732-ac5e-7d7624c35424",
+            "no": "37",
+            "name": "元泰肉攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=31f09166-f122-4db3-b431-f7cf50358732",
+            "no": "4",
+            "name": "采邑精品服飾"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=1eb166c7-6f6f-4e50-833b-2c968c0131f5",
+            "no": "43",
+            "name": "珍好蔬菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=daf15aa8-3bdb-4a57-801f-157c59d9ad40",
+            "no": "49",
+            "name": "布袋海產"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=14abd64a-b79e-48ff-a69c-5ac0f23f0f06",
+            "no": "50",
+            "name": "佳佳香食品"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2bc194e7-3d1c-4f64-b755-739d839ec0f9",
+            "no": "54",
+            "name": "阿壽海產"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b66291ed-b1f4-4cf0-be0b-bd723e49c90d",
+            "no": "55",
+            "name": "介銘海產"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c66c3cd8-804a-46eb-9d5a-58b38de4a029",
+            "no": "6",
+            "name": "可愛兒童精品服飾"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=8e896079-8b38-443c-8470-439ff24ec619",
+            "no": "67",
+            "name": "小愔雞肉攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a9bf5e0f-5e65-41bc-bbc4-31e0e5dd7c62",
+            "no": "68",
+            "name": "萬佳香肉脯舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c2ae0253-5066-405f-9c6c-1b2247aa9a2b",
+            "no": "7",
+            "name": "新市蝦仁肉丸"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ba66a909-8872-4df3-a399-9a7c714e431e",
+            "no": "7",
+            "name": "林家早點"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b9ebb4f5-1d11-46dd-9317-bb1de624a9fa",
+            "no": "71",
+            "name": "火鍋總店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b4336770-1770-4803-94da-0c0ca5ec812a",
+            "no": "79",
+            "name": "阿燕生鮮雞鴨禽肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b53bac58-f15b-48fb-86af-db954f622ea1",
+            "no": "8",
+            "name": "茂發羊肉鋪"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=cbca0b01-34a8-4872-b69c-893e2f25e3b3",
+            "no": "86",
+            "name": "紅豆餅香菇南北貨"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0915dc35-b8fe-4308-b5ec-9272f0090e3e",
+            "no": "87",
+            "name": "小熊水果店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=29646ee1-913f-4cf0-9f73-b6afc0674af0",
+            "no": "89",
+            "name": "美鳳有約"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=7a5b4b30-1b22-493f-ae8b-2ddd4433eead",
+            "no": "99",
+            "name": "阿鳳服飾店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f0543522-ac81-4f8b-96e3-a321cb283529",
+            "no": "鋪4",
+            "name": "華大鮮花店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5c7ada4a-ce03-4353-bb8b-f567672f5b81",
+            "no": "鋪5",
+            "name": "米農莊"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3ab32479-70df-4c8b-9117-d15e6c9c533d",
+            "no": "鋪8",
+            "name": "新市飯糰"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b8c40019-f9af-4b87-a008-438618e978ee",
+            "no": "鋪號:鋪1",
+            "name": "早安好堡"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=87cf5d0d-4efc-4b10-8343-20f29cc1cdbf",
+            "no": "鋪號:鋪2",
+            "name": "麻豆阿榮牛肉湯"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=fcf39d54-ef2d-45b4-87a7-a9a188cc8d96",
+            "no": "鋪號:鋪3",
+            "name": "宜玲行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a0f61f8a-bb28-4c5b-8167-4cff89b30b4a",
+            "no": "攤69",
+            "name": "摸摸頭寵物零食"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=cf2b06cf-f920-48d5-9b6a-2f1aab101dcf",
+            "no": "攤72",
+            "name": "品鮮韓式泡菜"
+        }
+    ]
+}

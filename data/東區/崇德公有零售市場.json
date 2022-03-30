@@ -1,0 +1,103 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=36c3e4b0-9ee9-4d43-950a-919be4d525fe",
+    "name": "崇德公有零售市場",
+    "area": "東區",
+    "scope": "",
+    "address": "臺南市東區崇德路304號",
+    "phone": "06-2671500",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20170406092714135.jpg",
+    "story": "本市場原位於台南市勝利路育樂街35之28號，傳統式市場當時供軍營採購，俗稱為「兵仔市」。其營業通路專以批發為主，日後隨著地方繁榮，周邊建築物增加日益形成，且市場內巷道狹窄交通不夠順暢，諸多設施陳舊，市府即著手重新策劃，藉於新建四期重劃區新建二座市場，本市場命名為「第一市場」。本市場於1984年1月10日啟用開業，以傳統市場走向，批發為主零售為輔，營業時間較短，市場營業效能不彰，無法滿足一般上班族的需求，為改善營業狀況，曾經舉辦多次促銷活動，以招募客源，吸引消費者採購，經此處理，營業量逐漸成長，市場型態由批發轉為零售為主。1985年12月市場改稱為崇德市場迄今，近來網路普及通訊發達及交通便捷，消費者需求愈見多元，市場跟隨變化，除傳統食材外更加入有機健康食品等多種新鮮乾淨食材供應，並扮演宅配服務為特色，以合理利潤獲得消費者肯定。近來市政府輔助市場，全面整建市場地板、攤商招牌並改善水電功能，使市場內部煥然一新，更為整齊明亮。100年市場自治會也新增無線上網服務，使顧客在消費時，帶來更為舒適的購物環境。",
+    "built": "民國73年。",
+    "background": "崇德市場最早是供軍營採購，因而又稱「兵仔市」。",
+    "feature": "榮獲108年優良市集2星認證。",
+    "count_stores": 91,
+    "category": "魚蝦、果菜、肉畜類等商品。",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=43f0d825-e18e-47fe-8b5e-1e9487606283",
+            "no": "124",
+            "name": "佳坤蔬菜批發零售"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=8a090a24-af46-4560-87c1-07b423a4a7b5",
+            "no": "126",
+            "name": "尤記傳統煙燻"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=1ad072b1-3d71-466f-979c-bf5bb36e40be",
+            "no": "141",
+            "name": "東方謝"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2013352a-5590-4d63-b85f-83e5b416af13",
+            "no": "143",
+            "name": "雞蛋"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=de087f6a-ea4b-41a2-8723-6e5a40e60257",
+            "no": "146",
+            "name": "生水餃"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4c7ddb56-6616-4a37-acb3-925ade3fd4ee",
+            "no": "147",
+            "name": "黃家雞肉攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4f587e15-b56a-4728-9f38-6e31a43e9d08",
+            "no": "149",
+            "name": "漢創虱目魚專賣店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4b81e1e8-8a72-4626-8fd6-1304f5aa97e9",
+            "no": "153",
+            "name": "昆龍冷凍火鍋食品"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=efb56148-f9c5-4c55-b528-74b4a3c4b82c",
+            "no": "158",
+            "name": "鄭蔬菜批發"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=38055b4e-a0cb-4978-ac87-a92e8209a7e8",
+            "no": "166",
+            "name": "中港興食品"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3cc32159-f374-4325-ac25-534c7f65aaf5",
+            "no": "167",
+            "name": "傑昌蔬菜商行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=326bae7c-0d27-4b6a-ad74-ab27eb9897bf",
+            "no": "178",
+            "name": "蔬菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ade888e1-412c-45fc-9bf3-a7c5e1375fd4",
+            "no": "181",
+            "name": "阿娥"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0e7af879-fcef-40a1-b6ca-da1dcdd2e318",
+            "no": "182",
+            "name": "丸藝魚丸專賣店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=7c110a1e-4093-4d86-b7a5-0231fa42a6f9",
+            "no": "185",
+            "name": "河南蔥大餅"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=668a81fe-c80e-4af1-97b3-5f12f7f5e71f",
+            "no": "188",
+            "name": "新鮮菇零售批發"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c6e83c74-566c-47e1-8d61-83d2537759b1",
+            "no": "191",
+            "name": "阿姑豆腐攤"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=6bcb1bfa-2cb7-496e-90f3-65c9cacf0255",
+    "name": "永康公有零售市場",
+    "area": "永康區",
+    "scope": "",
+    "address": "臺南市永康區中山南路1116巷2號",
+    "phone": "06-2035009",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812043034049.jpg",
+    "story": "永康公有零售市場創設於台灣光復後30年代，原為木竹材料搭蓋之簡易棚架，以供當地農民販售地方自種生產之農作物(如菜頭、地瓜等)為主 ，後因工商業發達，買賣交易日漸活絡，改制前原永康鄉公所遂於民國42年左右，籌湊經費陸續著手進行改建為目前所見鋼構鐵皮建物。",
+    "built": "民國42年。",
+    "background": "永康市場創設於台灣光復後30年代，原是由簡易棚架所搭蓋，供當地農民之販售。",
+    "feature": "永康市場位處於中山南路(台20線)及永康街範圍之熱鬧商區，交易買賣尚屬熱絡。\n榮獲105年優良市集2星認證。\n榮獲107年優良市集3星認證。\n榮獲109年優良市集3星認證。",
+    "count_stores": 89,
+    "category": "飲食攤、果菜類、魚蝦及百貨類等商品。",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=1bf1b744-b37d-4973-8d39-6c39f4a710b8",
+            "no": "1",
+            "name": "枝達商號"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3acfed8e-68f3-4b86-addc-ef2f808d0a3b",
+            "no": "11",
+            "name": "原香素食"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d5d3e978-90a6-4862-b9fd-7a213993bf7b",
+            "no": "1-1",
+            "name": "福果舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=643b0508-8a13-4383-989e-7383dbe60a6b",
+            "no": "1-14",
+            "name": "小紅鮮魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d499e47e-da05-4bfc-b0b3-c162b9040b5a",
+            "no": "1-17",
+            "name": "旗山現宰黑豬肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=6f90af6c-ecb8-4392-9b6c-f0d2799a2cda",
+            "no": "1-18",
+            "name": "阿花現撈海產"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=8b25558b-2e5a-4723-9303-7d5db44c66d2",
+            "no": "25",
+            "name": "紅龜粿"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a3c86228-fe08-451b-8ce9-62a112efec52",
+            "no": "2-6",
+            "name": "三牲"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=baafb231-1e61-4523-9167-b2e46ec0efa0",
+            "no": "28",
+            "name": "阿吉煙燻雞肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=448106fc-6581-4e5d-af25-1f55f0088eac",
+            "no": "30",
+            "name": "埔里香菇"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ef19a491-9a0a-44f8-9c41-177edd7329ab",
+            "no": "36",
+            "name": "姿文高雅服飾"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=dadd4d60-bf14-4ff4-94b4-f9b28b382f5b",
+            "no": "37",
+            "name": "ㄚ美服飾"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=74a09f7f-5170-49fe-8a10-4b416ee33299",
+            "no": "38",
+            "name": "偉美有機蔬菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=44f817ec-21c4-4e12-bc9b-afe6e36c1ca8",
+            "no": "39",
+            "name": "永發新鮮蔬菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=8376e4a2-d9cc-4c6a-ae77-bc792e53eeda",
+            "no": "43",
+            "name": "陽春麵意麵"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=1e1937c8-641b-49dd-8074-af915826f53b",
+            "no": "44",
+            "name": "李家𩵚魠魚羹"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=db1cc0a2-3064-44c7-a478-83ced49da14c",
+            "no": "56",
+            "name": "炸雞花枝丸"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b09f67b0-c3fd-4d29-9e7f-bb5b65a321d3",
+            "no": "57",
+            "name": "四神湯肉燥飯"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b908cc56-ed0f-4694-ad61-5d03d27a1f8d",
+            "no": "57",
+            "name": "𩵚魠魚焿"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=41a81648-8bdc-46b6-9085-6cc505b5bf4e",
+            "no": "58",
+            "name": "二郭海產粥"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=49184092-49f6-4b33-8a2e-f1ac5d0aad2c",
+            "no": "6",
+            "name": "美人魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f506b9a0-c0e1-4e2a-bde3-ca600f745940",
+            "no": "60",
+            "name": "羊肉湯"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3713bcf2-bfe9-4aa6-835c-b9bcd440189c",
+            "no": "8",
+            "name": "楊家素食"
+        }
+    ]
+}

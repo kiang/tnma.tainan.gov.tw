@@ -1,0 +1,173 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=d10261c5-87bd-4da6-b438-be4a4e0b2fb8",
+    "name": "關廟公有零售市場",
+    "area": "關廟區",
+    "scope": "蔬菜、小吃、海產、豬、衣物、南北乾貨、雞、鴨、鵝、花卉、其他",
+    "address": "臺南市關廟區忠孝街68號",
+    "phone": "06-5952048",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812044810669.JPG",
+    "story": "關廟因奉祀關聖帝君而得名，已有300多年歷史的山西宮為全區總廟，是關廟地區開基老廟。廟中關聖帝君為昔日開墾漢移民從家鄉攜來奉祀，由於神蹟靈驗、香火鼎盛，附近居民皆以廟前為趕集市場，市場就位於「山西宮」之前，除了公有市場之外，尚有周邊幾條街的商家與攤販。",
+    "built": "民國60年",
+    "background": "本市場於民國60年2月竣工，並於同年3月啟用營運，規劃攤數141攤，營業種類眾多，滿足不同顧客購物需求。",
+    "feature": "1.榮獲108年優良市集1星認證\n2.榮獲109年優良市集2星認證",
+    "count_stores": 141,
+    "category": "肉類、飲食類、魚蝦類、雜貨類、南北貨商品、修改衣服、服飾類商品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a5bde249-8bfc-40d2-98e8-bb1059194ffb",
+            "no": "102",
+            "name": "義美生炒鱔魚專家"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=793511f8-2454-4413-a1ba-567895e0ab95",
+            "no": "103",
+            "name": "男自助餐"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a4b46935-6cc5-4c8f-88d3-64c70fb1eb1e",
+            "no": "104",
+            "name": "阿男飯桌"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=38c516c2-9c59-415f-b046-ee549205a983",
+            "no": "107",
+            "name": "克義小吃"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4216c5d0-c101-4da2-bbd7-521747c8f434",
+            "no": "118",
+            "name": "萬發小吃"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c0c08206-334d-4a3d-b647-c121521a9abb",
+            "no": "128",
+            "name": "知己簡餐"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=76667cfa-6d39-426a-a6a5-ea08d25686cf",
+            "no": "151",
+            "name": "豐文堂"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=98262b2a-29b5-4976-8027-b452e943862a",
+            "no": "153",
+            "name": "信誠雜貨店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=89ff6130-92f0-4575-b522-b221acc68d58",
+            "no": "154",
+            "name": "祥益肉鬆"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=aa086a18-28d8-4413-a215-610ca46b4733",
+            "no": "29",
+            "name": "明源號豬肉攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=399fad9c-b129-4740-99ad-9cfa4a6534ef",
+            "no": "31",
+            "name": "水福海產"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=57d3859c-5aed-43b2-864e-41fe20769d58",
+            "no": "32",
+            "name": "牛頭海產"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=088dbf49-f427-40ba-8b38-53f91e4937ee",
+            "no": "45",
+            "name": "方家火鍋料"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=7c8694d4-8793-46ab-9d74-f130370fa3d4",
+            "no": "49",
+            "name": "內門烏山頂正山雞"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=7e8b8e59-2cd8-41bf-9b04-ecb958ce1268",
+            "no": "5",
+            "name": "阿六仔傳統美食"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0d8932a9-0c19-417a-8848-290772180d94",
+            "no": "50",
+            "name": "黃媽媽的扁食"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=53b23150-6f8f-4402-97d4-f25b9e74405e",
+            "no": "51",
+            "name": "宏智蔬菜攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=881bdd7f-6ca2-4f5a-a678-58d78208ed40",
+            "no": "52",
+            "name": "阿拔蔬菜攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=95469f74-07d4-4d5b-b518-5be0d862f534",
+            "no": "56",
+            "name": "新豐鮮花店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=714ab03b-3203-4e86-a574-834d7c1384cb",
+            "no": "56-1",
+            "name": "長榮行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=7415f1de-f725-48bf-8880-1805047a47c2",
+            "no": "57",
+            "name": "美瑞珍西點麵包"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d4719fb8-a896-4c7e-85ba-359221dd4f1a",
+            "no": "58",
+            "name": "養樂多"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=fe0348e2-468a-4e23-9aee-5d2593d6ac46",
+            "no": "66",
+            "name": "瑞成水果行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=8a94854f-e26a-4ad0-8042-ce811057ac04",
+            "no": "67",
+            "name": "馨香珍"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e7a1d14e-53c1-4006-98b9-88b39ee304ea",
+            "no": "7",
+            "name": "演唱會蔬菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=87ae7f71-1777-43d0-a25c-71326a19566b",
+            "no": "70",
+            "name": "阿俊肉燥飯"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=147db11d-77e4-4d17-ae38-efec31c26217",
+            "no": "91",
+            "name": "黃家挫冰"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a07f7263-82aa-4368-af27-3a514f0bbac6",
+            "no": "92",
+            "name": "一新羊肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2653fb71-947c-4019-a26a-cd1324f1dc98",
+            "no": "95",
+            "name": "乙旺魯麵"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b3abe728-1e12-4e7d-b642-8dae10c3b4d6",
+            "no": "96",
+            "name": "順隆小吃"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0036744a-5435-4c20-90eb-9dbd5ef8584f",
+            "no": "97",
+            "name": "西方素食軒"
+        }
+    ]
+}

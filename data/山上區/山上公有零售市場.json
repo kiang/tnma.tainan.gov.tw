@@ -1,0 +1,83 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=151ebbd5-4c2e-461b-b3cf-4387f70b7e9c",
+    "name": "山上公有零售市場",
+    "area": "山上區",
+    "scope": "",
+    "address": "臺南市山上區南洲里95-8號",
+    "phone": "06-5783174",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812041618060.jpg",
+    "story": "無",
+    "built": "山上市場於民國54年7月興建，55年7月啟用，山上購物中心於民國78年1月興建，79年1月啟用。",
+    "background": "山上區現有市場二棟，前幢毗連178縣道者，稱之為山上公有零售市場，因遭受「一一八」震災市場建物倒塌，當時公所財政拮据為迅速恢復市容，採以攤商捐建方式，辦理重建鋪位18間、攤位42處，逢178縣道路開闢，拆除12間鋪位，惟今市場餘攤（鋪）共48處。\n民國50年代市場後方，即有電影院設施，為昔日山上鄉農業社會鄉民晚間休閒場所，然不敵時代變遷及建物斑駁，遂將戲院拆除，之後空地任其荒蕪，旋於民國77年間山上鄉公所為使商業區空地充足利用，造福槡梓，以公共造產申辦借貸，築造山上公有購物中心，整體規畫一樓攤位42處供攤商使用，二樓住宅鋪位8間讓無居屋者安身。",
+    "feature": "榮獲109年度優良市集1星認證",
+    "count_stores": 48,
+    "category": "肉類、蔬果類、飲食類及百貨類商品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ab0ca042-842a-45b2-a528-cbed985b600e",
+            "no": "-",
+            "name": "林家妹子菜鋪"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=bdfbfd6c-c8c9-4225-b629-c0f1f38d8408",
+            "no": "-",
+            "name": "榮興號豬肉舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=051b9ae4-e022-465e-b9ac-45c37f7b1214",
+            "no": "-",
+            "name": "越南美食"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=798c597c-a7e4-46bf-baa6-da5fa6d2da2b",
+            "no": "-",
+            "name": "美秋素食店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=77f9f481-e7f8-4f59-b410-1fc80eba55da",
+            "no": "-",
+            "name": "香香早餐鋪"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=53303d15-a6ed-4789-8e86-47d6809956ab",
+            "no": "-",
+            "name": "阿蘭農產鋪"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4cbebbbb-eb4f-47c2-85fe-ce77f04a3e32",
+            "no": "-",
+            "name": "茶小子茶鋪"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=6f57bc15-3291-4397-af30-9f7832a9b1bf",
+            "no": "-",
+            "name": "麗華糖餅舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=01da33e1-3309-4b4e-86f3-28c05cc6d0f6",
+            "no": "-",
+            "name": "周家菜園"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ff4f595e-6b38-4ed2-a361-110ef4a5dc74",
+            "no": "-",
+            "name": "黃氏豬肉鋪"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3788ec95-8e4b-4e5a-bc1a-32c2330a3849",
+            "no": "-",
+            "name": "東山水果店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=508012de-13d2-4bc2-9b8b-a0ed2b432919",
+            "no": "-",
+            "name": "清井雞肉攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3eaf9726-83f7-44df-bc55-a1850e42c3b4",
+            "no": "-",
+            "name": "東山水產"
+        }
+    ]
+}

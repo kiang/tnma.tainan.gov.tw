@@ -1,0 +1,68 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=8627c6d6-4d9a-426a-b188-b6dc2cebfd43",
+    "name": "柳營公有零售市場",
+    "area": "柳營區",
+    "scope": "蔬菜、水果、小吃、其他、水產、豬、飾品、鞋、罐頭、菸酒、五穀、麵粉、其他、雞、小吃、其他、保養品、其他",
+    "address": "台南市柳營區柳營路一段986號",
+    "phone": "06-6221095",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812034948763.jpg",
+    "story": "未建造市場前，此處是由幾間平房聚集成一個小小的農畜產品買賣地方，供這裡居民方便採買的場所。歷經歲月公所的努力，在58年建造一個舒適的購物環境柳營市場誕生。",
+    "built": "本市場興建於 58年11月",
+    "background": "本市場興建於 58年11月，於 60年 01月開始使用。屬於都市計畫市場用地，基地面積為1107平方公尺，建物為2層樓加強磚造，1樓攤位規劃 32攤12鋪，本場外觀雖然老舊場內乾淨，每年都有進行完善的建物安檢及消防設備檢修。本市場雖然很小，卻是五臟俱全，不管生鮮、魚、肉日常用品都有喔！本地的居民非常純樸，太陽未升起早已出門購物或擺攤做生意了，本市場收市甚早約9點半即陸陸續續收攤。",
+    "feature": "市場的特色其一本場位於柳營區市中心，且金融及機關林立，交通便利。其二部分蔬果自栽自售，買的安心吃得健康喔！\n榮獲107年度優良市集 2星評核認證\n榮獲109年度優良市集 3星評核認證",
+    "count_stores": 44,
+    "category": "日常生活必需品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3e0ce057-6afa-4c8a-a4fb-7045a48552b5",
+            "no": "1",
+            "name": "阿貴商店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=10a8e821-928b-4041-9af6-101b1704b554",
+            "no": "12",
+            "name": "旭興商店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=bd7f32b1-6cb7-4c1f-95a4-f652a009b3c1",
+            "no": "13",
+            "name": "誠信生鮮蔬菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d87b4e03-c2a1-4726-abc1-c35dbdff5595",
+            "no": "14",
+            "name": "明振商行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a2600a9d-68c6-459b-b540-6c906c9d0022",
+            "no": "15",
+            "name": "阿霞"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=89eee27a-bd94-45b7-a32d-1a1580415e33",
+            "no": "19",
+            "name": "李蔬菜.菱角"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=44687e44-b05e-42d5-9203-f253f26f1a94",
+            "no": "22",
+            "name": "茂霖商號"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=caaf09dd-fe42-4f64-a193-54213a5164d3",
+            "no": "25",
+            "name": "益充商號"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=6963c432-573b-4785-9845-544feb55adf1",
+            "no": "3",
+            "name": "淑惠飾品百貨"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ad46e0d1-deff-471d-9c00-ff44d970e351",
+            "no": "5",
+            "name": "李蔬菜"
+        }
+    ]
+}

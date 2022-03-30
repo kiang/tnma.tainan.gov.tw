@@ -1,0 +1,133 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=397c6322-bf9a-4a3e-ba16-351e8c4477a3",
+    "name": "本淵寮公有零售市場",
+    "area": "安南區",
+    "scope": "",
+    "address": "臺南市安南區本原街3段85號",
+    "phone": "06-2460285",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20190421070458682.JPG",
+    "story": "本市集以往是安南區最大的集貨市場，原位於安中路四段四巷朝興宮之廟埕廣場及周邊道路，因濕地重劃後，於民國89年4月遷建於本原街3段85號。",
+    "built": "民國89年。",
+    "background": "本市集攤販數有57攤，主要販售：肉畜、飲食、成衣及雜貨等商品。營業時間：上午 6時至12時。",
+    "feature": "榮獲100年優良市集2 星認證、102年優良市集3星認證、108年優良市集3星認證。",
+    "count_stores": 57,
+    "category": "肉畜、飲食、成衣及雜貨等商品。",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0372e267-7763-4a1b-b4ac-1c83689bf67d",
+            "no": "101",
+            "name": "新鮮蔬菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a4aae1b1-6673-4254-bee6-d096723c76b8",
+            "no": "103",
+            "name": "邱水果"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=799f25ac-c9e6-4d26-b542-9cfc40d6e192",
+            "no": "109",
+            "name": "戴𩵚魠魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=67024f77-de89-4c89-9291-09a928c89044",
+            "no": "114",
+            "name": "妙食品專賣屋"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e9318204-6134-4477-b3cb-a93e6634baff",
+            "no": "115",
+            "name": "阿華服飾"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d627f1c2-f7e3-4fd8-813a-a41ed9a73895",
+            "no": "120",
+            "name": "百麗花店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=86982b2c-e1e0-4368-8997-1fbb3baabe54",
+            "no": "121",
+            "name": "佳益雞鴨魯味"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ca7d7fff-106a-48e1-91f6-046ed51e419a",
+            "no": "122",
+            "name": "小杜新鮮魚貨"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=8e3ecb12-9517-4531-b630-6dfcf3b2d3b3",
+            "no": "125",
+            "name": "鮮魚火鍋料"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=de8d9930-a360-4a40-b030-1bc8bf133b17",
+            "no": "125",
+            "name": "興鮮魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=61164091-4455-49f9-b731-04a3a046f2c7",
+            "no": "127",
+            "name": "五穀雜糧粥"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=9b1a1cc7-79a1-4a5e-a841-6b259c3d21d7",
+            "no": "128",
+            "name": "手工水餃"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ed19effa-56fc-496b-97e0-9b6ece073136",
+            "no": "129",
+            "name": "西瓜汁"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=6e17f130-2b00-4dcf-9ded-1b86ce02dc04",
+            "no": "132",
+            "name": "南北越南貨"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=288b04bb-9351-4829-8b1b-49e98520534e",
+            "no": "133",
+            "name": "各種鞋"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=10d9d547-3612-4e04-b3fe-a834d52d2af6",
+            "no": "136",
+            "name": "阿福牛肉湯"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ec7c318f-2ba5-45d0-af68-efe71fe6feb3",
+            "no": "138",
+            "name": "正馨堂香鋪"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5b5cdb4c-836a-4eb2-8d27-00fdbdcd8870",
+            "no": "140",
+            "name": "麗萍滷味"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ae164322-2a81-451a-bf3a-2c28102a1741",
+            "no": "143",
+            "name": "秀雲水果"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=1c9ac974-8112-4e97-a1e6-8403cd2d6e48",
+            "no": "144",
+            "name": "各種蔬菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d8907d78-ef9e-494c-9a1c-cfa34b9e768d",
+            "no": "148",
+            "name": "福南肉舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e223f220-78d0-459f-abb3-98382d909111",
+            "no": "150",
+            "name": "阿滿姨蔬菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=39b87074-2b87-4956-a6d9-b5fd2bc39480",
+            "no": "151",
+            "name": "各式海鮮"
+        }
+    ]
+}

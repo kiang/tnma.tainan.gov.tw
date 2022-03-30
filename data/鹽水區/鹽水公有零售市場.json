@@ -1,0 +1,28 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=93a6e0e8-5d40-48bd-8f1b-164b3c4a8180",
+    "name": "鹽水公有零售市場",
+    "area": "鹽水區",
+    "scope": "小吃、海產、豬、雞、鴨、其他",
+    "address": "臺南市鹽水區三福路14號",
+    "phone": "06-6535839",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812044211793.jpg",
+    "story": "民國 80年，鑑於本鎮原有零售市場老舊，並已列為危險建築，為因應地方需要，公所遂提報計畫原地興建，並於 83年完工，為三層樓加地下室之建築。",
+    "built": "民國80年",
+    "background": "鹽水市場位處於市中心，於80年建造3年後完工啟用，現有 44鋪位、46攤位，目前使用43鋪位、32攤位，出租率83﹪。",
+    "feature": "榮獲109年優良市集2星認證",
+    "count_stores": 90,
+    "category": "特色小吃、日常用品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=cf62a004-76da-42e0-b94d-08dd03ea5a37",
+            "no": "A027",
+            "name": "鮮之味商行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=be762955-be99-4f3a-a1b8-7a41ccfb7f02",
+            "no": "B51",
+            "name": "張瑞芳豬頭飯"
+        }
+    ]
+}

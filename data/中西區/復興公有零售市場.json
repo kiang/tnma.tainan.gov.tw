@@ -1,0 +1,83 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=eaae2863-64e5-47f7-886f-3ec7d3ff4eb4",
+    "name": "復興公有零售市場",
+    "area": "中西區",
+    "scope": "",
+    "address": "臺南市中西區府前路一段31號",
+    "phone": "06-2130900",
+    "time": "全日",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812034258605.jpg",
+    "story": "市政府未搬遷之前，復興市場原為黃昏市場。市府員工下班後皆會至該市場購物，生意相當興隆，與東菜市相互輝映。",
+    "built": "民國70年代",
+    "background": "民國70 年間為本市最早期之黃昏市場經營型態，又因位於市中心及舊市府及地方法院附近，下班購物人潮較多且生意興隆，後因75 年遭逢無名大火以致熱鬧光景大不如前。有鑑於該市場出租率低，市府於100年起將部分攤位規劃為汽機車專屬停車場；並補助該市場重建公廁、設置攤位招牌、加裝監視系統等。期待該市場能重建往日榮景",
+    "feature": "有專屬汽機車停車場，顧客購物不必擔心停車問題。全天候皆有店家營業，方便職業婦女下班購物。\n1.榮獲經濟部107年1星優良市集\n2.榮獲經濟部109年2星優良市集",
+    "count_stores": 92,
+    "category": "衣料類、果菜類、畜肉類、飲食類、其他類商品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=1ae5912d-edb5-4e82-b2f9-157e5c627618",
+            "no": "16",
+            "name": "慈仁素食"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=760dd2b8-2ac3-44a3-bc34-2fd7dfcc192e",
+            "no": "189",
+            "name": "鴨王北平烤鴨"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b1366ca4-97ae-4cc0-ade0-fe99fd9105d2",
+            "no": "19",
+            "name": "魚壽司日本料理"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=228a74b7-1c9c-4124-a26a-2c6a472ef94e",
+            "no": "190",
+            "name": "武豹周雞排"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=53fd9ca9-6354-4a94-878f-9f908ca2d0c3",
+            "no": "28",
+            "name": "媽媽咪麵店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5c27746a-292c-4a6a-a96c-b19a13e5585d",
+            "no": "41",
+            "name": "丰和壽司鋪"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c9920986-3c88-4d36-bc31-b0db20107dda",
+            "no": "45",
+            "name": "勇士珈哩飯"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=22ffff8d-77e4-4a22-8567-096dfd02ce88",
+            "no": "47",
+            "name": "新台祺之家"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=63deaf9b-f553-47e8-bd07-d7a8ab84148d",
+            "no": "59",
+            "name": "阿燕深海魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e1173d49-9569-4cab-b2d2-072e57d1eafe",
+            "no": "87",
+            "name": "海之味"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4fb8a0b3-023c-4945-8a3a-561c342bac5d",
+            "no": "88",
+            "name": "阿英蔬菜行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=cb43eb43-05fa-467f-9ded-88c1960af2a5",
+            "no": "鋪13",
+            "name": "佳美服飾精品"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3fcbdf32-c139-4715-92d8-d0b45efc9b89",
+            "no": "鋪15",
+            "name": "順利號食品什貨"
+        }
+    ]
+}

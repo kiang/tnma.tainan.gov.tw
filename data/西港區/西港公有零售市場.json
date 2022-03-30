@@ -1,0 +1,78 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=7de0814b-dd46-4336-afa8-255aaf239aa7",
+    "name": "西港公有零售市場",
+    "area": "西港區",
+    "scope": "蔬菜、水果、小吃、海產、豬、衣物、南北乾貨、雞",
+    "address": "台南市西港區慶安里慶安路59巷17號",
+    "phone": "06-7961023",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20170328102730028.jpg",
+    "story": "以慶安宮為主軸向四面發展的市集，108年度獲得優良市集3星認證，推動西港市場邁向現代化，市場內有許多著名美食攤，還有具有西港「魚咬錢」傳奇故事，非常值得探訪。\n109年度獲得優良市集3星認證\n109年臺南市公有市場環境整潔維護競賽優良獎",
+    "built": "民國 67年",
+    "background": "市場內販售種類眾多物美價廉，購物人口眾多，尤其假日生意更是絡繹不絕。",
+    "feature": "市場名攤位於市場廁所邊西品蝦仁焢肉飯及西港烤雞油雞創始店:飄香四十餘年的在地好味道，市場內秒殺等級的絕美滋味！口味獨特、用料實在，名聞遐爾。且經新聞報章媒體爭相報導後，慕名而來饕客更是絡繹不絕。\n榮獲-\n106年度優良市集3星評核認證\n108年度優良市集 3 星評核認證\n109年度優良市集3星評核認證",
+    "count_stores": 85,
+    "category": "營業種類果菜類.畜肉類.禽肉類.水產類.雜貨類.飲食類.糧食類.百貨類.五金 類. 裝飾品類.其他等各項各項民生物品。",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b268c193-06e4-42d6-8640-e03bf4778405",
+            "no": "18",
+            "name": "南文豬肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e0b4c138-59ed-499d-a9ec-e3bd1fa157dc",
+            "no": "20",
+            "name": "南億肉舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d5880c55-9730-46a4-8092-154dae0b2ef0",
+            "no": "39",
+            "name": "西港烤雞油雞創始店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0a4131e1-83d1-41fc-b471-73f12e878be2",
+            "no": "50",
+            "name": "虱目魚粥肉燥飯"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=cbc111c0-6c55-451f-b8f9-d53cf1665269",
+            "no": "55",
+            "name": "福伯冰"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=07d571c1-deef-41dd-8135-ecb8f4adf912",
+            "no": "57",
+            "name": "蓮華素食"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b954e3a4-9a31-421b-8f79-7f98f299e22a",
+            "no": "58",
+            "name": "浮水虱目魚焿全－魚土魠魚焿"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=70a1ef60-47bd-4b20-bec1-00c9e8e59aad",
+            "no": "69",
+            "name": "水上自助餐"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4cd063f8-e886-4393-89bc-ceb40502cbe1",
+            "no": "72",
+            "name": "峯鮮魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=14c2f62c-8572-4d96-81fc-f3fcc47dd795",
+            "no": "74",
+            "name": "忠成商行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ffb0c21c-f01a-4066-9352-ccf6b23b9592",
+            "no": "76",
+            "name": "西品爌肉飯"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=51040ede-d488-446a-9d50-4ec31c701027",
+            "no": "85",
+            "name": "超鮮青菜"
+        }
+    ]
+}

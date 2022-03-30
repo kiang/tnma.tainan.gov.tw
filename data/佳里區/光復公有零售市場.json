@@ -1,0 +1,28 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=3ca553df-c4da-434b-9567-09dd2d86d2b0",
+    "name": "光復公有零售市場",
+    "area": "佳里區",
+    "scope": "蔬菜、小吃、海產、豬、其他",
+    "address": "臺南市佳里區民生街1號",
+    "phone": "06-7217413",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812044205837.jpg",
+    "story": "本市場於日據時代啟用至今，先後遭數次火災，為安置攤商遂將其遷移現址( 原佳里果菜市場 )，原市場用地現規劃為停車場。",
+    "built": "日據時代啓用",
+    "background": "停車場規劃65格停車位，出租數56停車位。停車場東北角有店舖9間，全部出租。本市場現有攤位25攤，出租數22攤。",
+    "feature": "市場內有販售蔬果青菜、雞肉、豬肉、魚貨、便當及早餐。\n榮獲109年度優良市集2星認證",
+    "count_stores": 25,
+    "category": "民生必需品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=6a11d506-e6ce-489a-bcb2-deecc88b23d3",
+            "no": "25",
+            "name": "阿龍肉攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c75145b1-92be-4f47-8d62-6720780435e6",
+            "no": "69",
+            "name": "阿芳蔬菜攤"
+        }
+    ]
+}

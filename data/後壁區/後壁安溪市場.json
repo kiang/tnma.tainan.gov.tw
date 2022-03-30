@@ -1,0 +1,38 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=bbca64ff-bcdb-4759-9d30-51855f4437e1",
+    "name": "後壁安溪市場",
+    "area": "後壁區",
+    "scope": "其他",
+    "address": "台南市後壁區福安里102-21號",
+    "phone": "06-6326519",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812043526605.jpg",
+    "story": "安溪寮位於臺南市後壁區東南方，地名由來是因早期居民大多來自中國福建省泉州府安溪縣，庄頭又細分成頂寮、中寮、下寮。日治時期因附近增設烏樹林製糖所，造就了安溪寮的繁榮，有不少居民在製糖所工作或種植甘蔗，除了甘蔗之外，稻米也是當地重要農作。二戰後將原本三寮分成頂安(頂寮)、長安(中寮)、 (下寮)等三村，2010年行政區改制後村更名為里，安溪市場即位於福安里，在本市172縣道旁，緊鄰安溪寮郵局。",
+    "built": "民國 61年",
+    "background": "安溪市場建於61年，迄今40餘年，屬於村落型市場。市場附近住戶居民不多，緊鄰郵局，清晨至郵局開門約8點多即收市，市場出入口兩側6間店鋪使用率較高。清晨時有攤販販賣魚貨、豬肉、蔬果等，另社區中為服務區域民眾，有菜車停放各處買賣。",
+    "feature": "因當地居民經濟活動以農業為主，工商業較不發達，市場販售物品多屬自產自銷或自鄰近區域批貨零售。\n榮獲109年度優良市集1星認證",
+    "count_stores": 26,
+    "category": "日常必需品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=df59e197-8308-46bd-b44a-de08146e0e0f",
+            "no": "1",
+            "name": "福安瓦斯行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=9507908b-5d65-413b-afd3-d148e0b42944",
+            "no": "22",
+            "name": "素娥蔬果"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=72e288f3-fcdb-4b88-b960-732389f672b2",
+            "no": "5",
+            "name": "永記美食"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=853330bc-20c9-4eb7-aeba-94818047ce20",
+            "no": "9",
+            "name": "可香俗便當"
+        }
+    ]
+}

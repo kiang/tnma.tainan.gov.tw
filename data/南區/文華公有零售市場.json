@@ -1,0 +1,128 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=34d33613-9a7d-4ecc-bc76-90576c144665",
+    "name": "文華公有零售市場",
+    "area": "南區",
+    "scope": "",
+    "address": "臺南市南區建南路154號",
+    "phone": "06-2635622",
+    "time": "黃昏市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200521031004335.jpg",
+    "story": "文華市場於民國74年5月以BOT方式興建，84年期滿由市政府收回繼續經營，當年收回時2樓已無營業，攤商皆搬至1樓四散擺攤，經94年勸說整頓重新抽籤後，將全數攤商規劃至1樓市場攤位內營業，99年獲經濟部補助整修外牆，目前規劃攤數有49攤，設有汽機車停車場及無障礙走道。",
+    "built": "民國74年",
+    "background": "成立年代：民國74年5月以BOT方式興建，94年重新整頓營業，市場內有許多二十年老店，臺南好滋味就在文華。",
+    "feature": "榮獲108年優良市集2星認證。",
+    "count_stores": 49,
+    "category": "果菜類、飲食類、百貨類和其他類商品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=bde61295-8eca-4b2b-b98c-9e8156bba29e",
+            "no": "1",
+            "name": "茂志素食"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a2424922-e1ea-47fa-9e91-e68cae2384f8",
+            "no": "10",
+            "name": "夯將燒烤料理"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=694aefd5-e411-4658-9f7c-c7be251ceb96",
+            "no": "17",
+            "name": "OBA便當"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4a5c827b-0613-44e2-90b9-434ab61f54d0",
+            "no": "18",
+            "name": "五味臭豆腐"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=9e1b3abc-6e3f-4368-9b51-6fb03d9b1740",
+            "no": "21",
+            "name": "建南串燒店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=8ebc2a1e-85f6-4939-bb3a-e884704b224c",
+            "no": "24",
+            "name": "小食堂"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ba263b0c-58f6-4629-ab86-f7552b313f27",
+            "no": "29",
+            "name": "海拓鮮魚湯"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=61813a85-2e7b-4347-b396-c295e5b0ea32",
+            "no": "30",
+            "name": "馬沙鱔魚意麵"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e10da0dc-f949-4c33-ac3c-9966cdf8daed",
+            "no": "34",
+            "name": "蛋餅小二"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4570323b-263a-42d1-9ad0-538e9cbcdddd",
+            "no": "36",
+            "name": "家家丼飯"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d613e503-159f-4a38-ace0-7bce8b53386a",
+            "no": "36",
+            "name": "大醬肉粿"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=6b24c8e3-96aa-4dbd-9407-dadf31fecd6d",
+            "no": "37",
+            "name": "阿亮香雞排"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5e657811-7d05-4620-9fef-96410c65150c",
+            "no": "38",
+            "name": "吳記大腸麵線"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=28011593-aa25-4cd2-af7d-335bde643108",
+            "no": "39",
+            "name": "吉嫂炒飯"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=77b57900-d763-4b1d-9ff4-9f0abfa6ba0c",
+            "no": "40",
+            "name": "鯤鯓陳"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3cb00fa8-1ad9-49fd-916c-ab263f66200d",
+            "no": "41",
+            "name": "豆花"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=9f7228d9-a7f7-4167-95e9-89017706e4ba",
+            "no": "42",
+            "name": "有間海鮮粥"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=78279d97-c36a-46a2-9b8a-9ab517410c7f",
+            "no": "42、43",
+            "name": "蔡家阿珍阿富豬血湯"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=37ecddc5-c4fd-4024-bdda-505183aba5b3",
+            "no": "43",
+            "name": "有間壽司丼"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0ad4e3bc-05d1-4b82-8670-359c86ca6816",
+            "no": "45",
+            "name": "金軟骨飯"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4e6e2599-1c7d-4217-8b15-1f6f75094e74",
+            "no": "47",
+            "name": "文華肉粽"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=47ea6fbd-dcb6-4335-9fa9-da14df29997a",
+            "no": "48",
+            "name": "古早味"
+        }
+    ]
+}

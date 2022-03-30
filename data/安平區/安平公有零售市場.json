@@ -1,0 +1,98 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=7f6873bf-76ee-4299-8868-ced78d24938e",
+    "name": "安平公有零售市場",
+    "area": "安平區",
+    "scope": "",
+    "address": "臺南市安平區效忠街20之7號",
+    "phone": "06-2262741",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812043933663.jpg",
+    "story": "安平公有零售市場的前身為「第三小康市場」，於民國86 年11 月峻工並於12 月進場營運暨「經濟部商業司輔導改善五年計畫」至今。",
+    "built": "民國86年營運迄今。",
+    "background": "安平公有零售市場的前身為「第三小康市場」，經台南市政府斥資改建原已列為海砂屋之危險建物，於民國86 年11 月峻工並於12 月進場營運暨「經濟部商業司輔導改善五年計畫」至今。市場內設有空調設備，保持生鮮食品之新鮮度，備有電梯，幫助不便上下樓梯的消費者採買。鄰近安平漁港，每天都有新鮮漁貨的供應，位於安平老街周圍，與安平商圈共榮共存",
+    "feature": "1.榮獲102年優良市集2星認證。\n2.榮獲100年優良市集2 星認證。\n3. 榮獲107年優良市集3星認證。\n4. 榮獲109年優良市集3星認證。",
+    "count_stores": 111,
+    "category": "魚蝦、飲食、果菜等。",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=dd96c789-b626-4f39-9368-f0ee817018aa",
+            "no": "1001",
+            "name": "許家芋粿肉圓"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=9ae1011d-ef86-42ea-80e0-a42968205bfc",
+            "no": "1007",
+            "name": "寶玉火鍋食品"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=27f902dc-c7a7-407e-8f33-857bc774c61a",
+            "no": "1009",
+            "name": "雞蛋專賣店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e7b22679-2890-4c8d-8d03-d875a782ae57",
+            "no": "1018\/1019",
+            "name": "安平(蔡)愛玉冰粉粿"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=42f816b8-c268-4f7c-a7bf-1799c99cd179",
+            "no": "1023",
+            "name": "梅香服飾"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=87efe25c-3630-43e5-9bd7-444e1f86c00a",
+            "no": "1029",
+            "name": "蔡斯文手作料理"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=7cf38cbe-df48-422a-9003-81e75df10b74",
+            "no": "1033",
+            "name": "姿味食堂"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d98ab2b0-7bcc-4edd-b1fb-9fa092d8f620",
+            "no": "2011",
+            "name": "榮盛肉舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=06f88297-2623-4daa-baf1-0a6405117687",
+            "no": "2012",
+            "name": "盧氏肉舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e68f4330-d39d-4840-bfad-de4d2ac9f974",
+            "no": "2013",
+            "name": "振興海產"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=389888da-f31c-43b7-a374-128f2878bbab",
+            "no": "2015",
+            "name": "全美肉舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=6b8bf675-3beb-4c16-948f-022ebeecdde8",
+            "no": "2020",
+            "name": "阿雪蓮子蔬菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=96c417e1-42e4-4f4e-a85c-9ef217ce01ec",
+            "no": "2031",
+            "name": "郭 土產牛肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ac322584-9dde-424b-95f7-ff822a08ea14",
+            "no": "2034",
+            "name": "麗花虱目魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=91e53406-1f4e-4041-83f3-a27107c521be",
+            "no": "2036",
+            "name": "鳳琴海產"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=019a35f9-a4b7-4586-836b-1b85d804fe4d",
+            "no": "2059",
+            "name": "富傑海產"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=8ef712a8-6dd6-4642-b594-622c62faecad",
+    "name": "北門市場",
+    "area": "北門區",
+    "scope": "其他",
+    "address": "台南市北門區北門里北門287號",
+    "phone": "06-7940139",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812045624675.jpg",
+    "story": "北門市場於民國73年在原鄉有土地舊埕段0493-0000地號，面積1183.64平方公尺，並於民國75年竣工使用。",
+    "built": "民國 75年",
+    "background": "北門市場原規劃攤15，目前承租使用攤10。。",
+    "feature": "北門市場屬漁村聚落型態，緊鄰台17、61線，附近有北門國小、北門農會、北門派出所、雲嘉南濱海國家風景區，市場為提供居民民生物品所需供給點。\n榮獲109年度優良市集1星認證",
+    "count_stores": 15,
+    "category": "日常用品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3de1a268-1711-4442-9931-8b288e8e3e76",
+            "no": "1攤",
+            "name": "吳爐豬肉攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=743de438-d76f-4803-8402-40fd4d97ceb4",
+            "no": "9攤",
+            "name": "德化蔬菜攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=75ae992a-7aa8-4097-aa39-cddb0a970907",
+            "no": "攤15",
+            "name": "佳佳自助餐"
+        }
+    ]
+}

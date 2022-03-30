@@ -1,0 +1,53 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=ae64820d-02ca-4615-a265-c64d0edf3d32",
+    "name": "下營中營市場",
+    "area": "下營區",
+    "scope": "其他",
+    "address": "台南市下營區中營里12鄰中營1151-1號",
+    "phone": "06-2796269#226",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812043604374.jpg",
+    "story": "市場地處中營慶福宮旁，屬於社區聚落型，人口較少，但地方民眾日常生活所需仍倚賴市場提供，中營市場提供中營社區民眾購買生鮮蔬菜及魚肉之便，攤商亦與消費者建立深厚的情感 。尤其是廟會及年節期間，市場生意旺，為攤商最重視之特殊節日。",
+    "built": "民國 67年",
+    "background": "下營區中營市場興建於民國49年,市場佔地449㎡，位於鄉村區乙種建築用地，為一層樓鐵皮建築，屬社區型之市場。目前市場規畫攤位13攤，出租8攤，市場致力於維護市場環境整潔明亮，並規劃機車停放區，供民眾購買方便。",
+    "feature": "市場攤商均已營業超過30個年頭，大多承接上一代之攤位，對中營市場有濃厚的情感，故中營市場除提供熟食、新鮮蔬果及魚肉外，亦販售人味，於冬天時期，攤商會自備熱湯與消費者一起享用。\n榮獲109年度優良市集2星認證",
+    "count_stores": 13,
+    "category": "食品小吃、日常用品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3ca01a33-f6c5-4ed2-888f-d652c9de7960",
+            "no": "10",
+            "name": "山花豬肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4efe493b-6eaf-4176-a41c-b1318c0714fd",
+            "no": "12",
+            "name": "順多製麵"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=01d5cc44-0555-476f-afaa-84a190886dbc",
+            "no": "3",
+            "name": "阿偉豬肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=03ccd0b6-9184-4a58-ae39-b88d3aa08c8c",
+            "no": "5",
+            "name": "阿惠雜貨店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=fa67321f-70e0-458a-bd99-aa74b65e5749",
+            "no": "6",
+            "name": "順和魚攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a9b6be8d-e202-4541-a2a2-2e14125db367",
+            "no": "8",
+            "name": "富貴商行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=1c97c66a-8f0d-420c-8b21-9aa4da6d1587",
+            "no": "9",
+            "name": "錦雲菜攤"
+        }
+    ]
+}

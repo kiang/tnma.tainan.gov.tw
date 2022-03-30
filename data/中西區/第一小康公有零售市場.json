@@ -1,0 +1,128 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=e228fea7-5d61-4c43-9983-d21e9b70a3fb",
+    "name": "第一小康公有零售市場",
+    "area": "中西區",
+    "scope": "蔬菜、水果、其他、小吃、海產、水產、豬、南北乾貨、雞、鴨、鵝、其他",
+    "address": "臺南市中西區文賢路197號",
+    "phone": "06-2806540",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812033459284.jpg",
+    "story": "第一小康市場於民國63年4月營業啟用迄今係屬社區型市場，其係由台南市前市長蘇市長在任內時所設立，在早期第一小康市場的用地原為垃圾場，後來經蘇市長的整頓，才有今日第一小康市場的面貌。據聞，第一小康市場原本前面是塊大水溝，有小船可以行使，渠道可通安平運河至現今的西門路，後在蘇市長兩任的任期內，經過長期的改建，才成立了現今第一小康市場，以供當地附近民眾之採買。",
+    "built": "民國63年",
+    "background": "第一小康市場是一小型的社區型市場，雖然市場小，但攤販都很有親和力，服務態度親切，具有現代大賣場所沒有的人情味",
+    "feature": "107年榮獲優良市集 1星評核認證\n107年、108年度16家攤商榮獲樂活名攤星等認證\n109年榮獲優良市集 2星評核認證",
+    "count_stores": 100,
+    "category": "果菜、魚蝦、畜肉等",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=809b6f29-a75d-46fd-b69c-24ed1d87ed57",
+            "no": "1",
+            "name": "宏佳青果行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a49d18e7-57bd-4264-b010-ee2443ff72e0",
+            "no": "10",
+            "name": "健美冷熱飲"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=24680ffc-520a-4860-9f1c-7b7c4b138b9e",
+            "no": "17",
+            "name": "進財商號"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=73be2009-b425-4141-b9db-6dcfe48f687b",
+            "no": "19",
+            "name": "進興餅乾"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=1250a437-8c42-4a3d-add0-9961f4d37131",
+            "no": "24",
+            "name": "金鳳水餃"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b6811901-9d65-4cee-8a0e-0173ff7041cf",
+            "no": "31",
+            "name": "農產品(燕)什貨"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=031808cd-f9fd-42d5-a7fc-65337db7163e",
+            "no": "38",
+            "name": "清心海產"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=23227579-f426-4284-8bcf-54a4c3ce102f",
+            "no": "44",
+            "name": "昇隆雞肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=96a6c818-8e4a-448c-bcf5-95694b5dee6a",
+            "no": "45",
+            "name": "ㄚ花海產"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=eaa8f48b-4ee5-4d28-a63c-a10fb0a7e7e9",
+            "no": "53",
+            "name": "明興肉舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c17aefb2-2e01-454b-9fdb-2dd4f28a74e5",
+            "no": "59",
+            "name": "麗珠農產品"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b0179468-f4be-4538-b3a6-bf8455fea528",
+            "no": "62",
+            "name": "仙仁蔬菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ddadefd3-9846-4533-aaf2-e571b746072e",
+            "no": "65",
+            "name": "阿春火鍋料"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ea4f288e-eed5-4a2d-a860-07f00d0c903a",
+            "no": "68",
+            "name": "新豐蔬菜行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=cc9b772c-3a99-45ff-9f50-2bf5a7af393d",
+            "no": "69",
+            "name": "烤肉之家"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=496f0d10-b19b-4242-bbed-b5570fb395b2",
+            "no": "70",
+            "name": "裕展-海產虱目魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=09ddad5a-795e-4e94-a430-723d7db8b7d3",
+            "no": "71",
+            "name": "寶露內衣"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a15c3ea7-69f1-44d2-af00-651320165dfb",
+            "no": "73",
+            "name": "意麵類批發銷售"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=02629f6c-2746-45f4-b821-2ae832341bd2",
+            "no": "75",
+            "name": "阿德果菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3f2c8a41-ff65-4da3-a22b-6dcbb68d9867",
+            "no": "79",
+            "name": "蔣鮮食魚丸"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=09762e62-1bb9-4305-9d73-f62b892d8070",
+            "no": "83",
+            "name": "阿緞鮮魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=1f4841bb-cfd7-4959-ba87-83fa0fb1de4d",
+            "no": "86",
+            "name": "肉粽"
+        }
+    ]
+}

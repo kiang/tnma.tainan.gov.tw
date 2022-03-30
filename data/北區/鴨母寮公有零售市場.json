@@ -1,0 +1,103 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=4ebf6deb-e803-4d6c-824c-b3050ccfda19",
+    "name": "鴨母寮公有零售市場",
+    "area": "北區",
+    "scope": "",
+    "address": "臺南市北區成功路148號",
+    "phone": "06-2201031",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812042300739.jpg",
+    "story": "市場創始於日據時代，屬社區型市場，位於台南火車站附。因現今成功路巷內天下飯店及北區公所一帶有條大水溝流經，其沿線人家以養鴨為生，因此有了「鴨母寮」的稱號。",
+    "built": "民國7年",
+    "background": "根據史書記載這個地方是從三老爺宮前廟口發展起來的，設立於民國7年3月 (1918)，日據時代稱為「明治分市場」，民國35年改稱為光復市場。光復市場於民國96年為順應市場及附近居民之要求正式改為「鴨母寮市場」。民國74年曾遭祝融之災而重建。",
+    "feature": "成立年代久遠，許多美食名攤皆從此起家，榮獲106年優良市集認證二星評核-(6家星等名攤(4顆星的有小清新手作茶；3顆星的有當歸鴨1號、茂爸麵店、轉角廚房：1顆星的有石大等鮮肉舖、津津好味自助餐)\n榮獲109年優良市集認證二星評核",
+    "count_stores": 42,
+    "category": "果菜類、畜肉類、禽肉類、漁產類、飲食類、百貨類、其他等。",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=38eac2b0-d6d3-45a4-aee0-cfb803fb9fd9",
+            "no": "06",
+            "name": "津津好味自助餐"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=31d8d021-52b4-4cc7-b934-bc298839bc63",
+            "no": "1",
+            "name": "當歸鴨"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=05b20eaf-36f5-412d-8607-574767f3ef01",
+            "no": "10",
+            "name": "茂爸の麵"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5c4e7f4c-e2ce-4ed8-983a-5c22858fa574",
+            "no": "11",
+            "name": "轉角廚房"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c37dc9b1-e295-4c62-acbc-0c68e547a1d8",
+            "no": "14",
+            "name": "宛蓁服飾"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0ed9efbe-30df-4e60-9771-39c83cdfc7fb",
+            "no": "15",
+            "name": "南青水果商店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=094f6611-87a0-44c1-b205-1440de5c23c1",
+            "no": "18",
+            "name": "舊來發餅舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3b03ef12-bf0e-4724-9faa-81433550abcd",
+            "no": "21",
+            "name": "三津製麵"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5453749a-69ff-44d1-bde1-2fee89192da8",
+            "no": "22",
+            "name": "石大等鮮肉舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=88fdef47-0e95-4440-b11d-bde67f5a771b",
+            "no": "25",
+            "name": "永茂肉舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=cd7e8891-4e01-4430-8c13-1135b85d4f7a",
+            "no": "28",
+            "name": "八方有機農場"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=46e9f7a7-cccc-4ca6-86b8-ee7b63e8614e",
+            "no": "29",
+            "name": "柳丁汁水果"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=427d25c7-3aa0-4cbd-a818-9da5470bf53d",
+            "no": "32",
+            "name": "跑山雞"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=136cc711-8114-4b40-945a-3c9a35795eea",
+            "no": "34",
+            "name": "松香餅舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=18d6c57f-4ef5-4815-9105-db66e3d71de3",
+            "no": "38",
+            "name": "何興肉舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a9630489-082f-4615-9de9-5a7e580bff91",
+            "no": "40",
+            "name": "滋美芳肉舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=84fd584c-9411-4f08-9d78-4567125c50b1",
+            "no": "9",
+            "name": "小清新手作茶"
+        }
+    ]
+}

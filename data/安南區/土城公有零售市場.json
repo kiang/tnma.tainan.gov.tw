@@ -1,0 +1,93 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=1e9c7005-9a1b-412b-b967-082f7771ecd2",
+    "name": "土城公有零售市場",
+    "area": "安南區",
+    "scope": "",
+    "address": "臺南市安南區城西街一段20號",
+    "phone": "06-2573908",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200521023843200.jpg",
+    "story": "此市場原集中於一旁之媽祖廟之兩側，然經道路拓寬後，即由前市長蘇南成先生於任內加以新建。此外，於民國99年度經結構鑑定強度不足，在經攤商同意後便開始改建，便於民國100年10月份遷至對街臨時市場安置，並於民國101年12月完成改建及開幕啟用。",
+    "built": "土城市場於73年間啟用至今已達28年。",
+    "background": "土城市場於73年間啟用至今已達32年，並於民國101年12月完成改建及開幕啟用。攤販數有57攤，主要販售：魚蝦、果菜類、飲食類、肉類商品。",
+    "feature": "榮獲108年度 優良市集 1星評核認證。",
+    "count_stores": 57,
+    "category": "魚蝦、果菜類、飲食類、肉類商品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=41f38ce5-2fe4-4382-9438-5707d8838d54",
+            "no": "06",
+            "name": "雞肉鴨肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=35498f18-1639-4045-86d6-f276d04e63fe",
+            "no": "10",
+            "name": "滿天星茶坊"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=62ff7cb8-6e77-4386-ab0e-bd5de890def0",
+            "no": "12",
+            "name": "ㄚ燕 鹹水魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b9e114af-904a-4c5b-82a6-1ce6411b930f",
+            "no": "13",
+            "name": "永春雞肉攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2cfb229b-9c34-47ee-9283-0e2ee5f615bd",
+            "no": "18",
+            "name": "蔬菜郭綜合火鍋料"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3eac7525-bbfa-4a89-838e-16a92fc4b9cf",
+            "no": "28",
+            "name": "封肉蔡封雞"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5cd7ec56-d3a7-4d84-a24b-2c0b3e769c75",
+            "no": "31",
+            "name": "梅花雞鴨鋪"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f184df3e-dab2-4f51-9c98-50a879d17377",
+            "no": "32",
+            "name": "豬肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e29e8c36-067a-429a-9de8-9b125a97756b",
+            "no": "50",
+            "name": "涼e夏剉冰"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e7b12bfd-cfc5-434d-b347-e65c6d1055ae",
+            "no": "52",
+            "name": "鑫吃滿四海"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=6677c9ad-ca70-4b5e-9c73-74d64c29ffb5",
+            "no": "53",
+            "name": "正鶴傑魚羹"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=774c692b-9ab7-40c2-a8bf-21d503f77b9f",
+            "no": "55",
+            "name": "高再來糖餅"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d716c440-0b0e-4fbd-ae4a-3405ae41e978",
+            "no": "62",
+            "name": "鑫豐水果乞行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e9bc98d6-187f-432e-96d9-3d29095c4a6f",
+            "no": "65",
+            "name": "水產"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b1348419-fe12-4b83-9b5a-701544b648ba",
+            "no": "67",
+            "name": "豬肉"
+        }
+    ]
+}

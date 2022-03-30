@@ -1,0 +1,68 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=841b3c68-8d58-4904-94bb-2502b990ac9c",
+    "name": "永樂公有零售市場",
+    "area": "中西區",
+    "scope": "",
+    "address": "臺南市中西區國華街三段123-234號",
+    "phone": "06-2243134",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812040320318.jpg",
+    "story": "永樂市場俗稱為「賊仔市」，興建於49年、50年正式啟用，「賊仔市」的由來乃係因為它以前曾為擺攤賣贓貨的地方，也曾經歷經過數次的大火，而後經過幾次的改建，才有今日的面貌，裡頭有許多著名的小吃更是在地人及觀光客到台南會去朝聖的市場之一。",
+    "built": "民國51年。",
+    "background": "市場規劃234鋪,建物構造為加強磚造之建築物。\n永樂公有零售市場坐落於國華街與民族路口，因市場立地環境俱已變遷，市場整體營運狀況不佳，當前除一樓鄰近國華街及民族路鋪位有營業外，其餘均做為倉庫或住家使用。",
+    "feature": "永樂市場與水仙宮市場相鄰，形成一個相當大範圍的市集，且該市集以許多著名小吃而出名。\n榮獲109年度優良市集1星認證",
+    "count_stores": 234,
+    "category": "飲食、雜貨等。",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=79eddec5-cdce-4d66-a0f2-5caf199bddee",
+            "no": "103",
+            "name": "修安扁擔豆花"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a017f9bc-1299-4108-a565-94d0f8c3f991",
+            "no": "105",
+            "name": "宇哥咖啡"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=9ee1e510-703f-466b-81dc-3e74af1bcdd2",
+            "no": "106",
+            "name": "葉家小卷料理"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=dfeb1bd5-37b1-4884-ae46-e48eb695c676",
+            "no": "109",
+            "name": "永樂米糕"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=362c3544-c404-4a13-8c4f-09ed570df0bb",
+            "no": "111",
+            "name": "一味品碗粿"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=35d6db98-a407-46e8-af57-c51ece23f88c",
+            "no": "113",
+            "name": "阿松割包"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e05ccea3-f622-4191-b6e7-95140b3777ac",
+            "no": "114",
+            "name": "水仙宮青草茶"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c6aafc60-2edc-4a56-9c15-3dc5c6d34c5d",
+            "no": "58-1",
+            "name": "秀治咖啡"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=14ef3ca4-ed85-4491-8a55-be2df1f55784",
+            "no": "91",
+            "name": "勤耕蛋糕"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f59c70d6-40a0-4b01-b7b7-aec2c4929736",
+            "no": "94",
+            "name": "霞の家汕頭意麵"
+        }
+    ]
+}

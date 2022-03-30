@@ -1,0 +1,28 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=e6485c90-61d1-4561-bb13-46b7ea87221f",
+    "name": "學甲頂洲公有零售市場",
+    "area": "學甲區",
+    "scope": "小吃、其他",
+    "address": "臺南市學甲區三慶里114號",
+    "phone": "06-7838379",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812045528271.jpg",
+    "story": "近年來市場處不斷積極輔導，並改善市場環境，現在市場環境優美，內部學生彩繪極為漂亮生動，外部有顯亮大招牌及乾靜環境，現有攤位出租率百分百。",
+    "built": "民國 60年",
+    "background": "頂洲市場於民國 60年興建完，為一層樓加強磚造，無使用執造。地處偏遠對外交通不便無大眾運輸，因年輕人口嚴重外流，消費族群以老人為主，消費習慣多以流動攤車定點集中叫賣為主。",
+    "feature": "地處偏遠對外交通不便無大眾運輸，因年輕人口嚴重外流，消費族群以老人為主，消費習慣多以流動攤車定點集中叫賣為主\n榮獲109年度優良市集1星認證",
+    "count_stores": 9,
+    "category": "流動攤車定點集中叫賣",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=73107efc-0a22-4d0b-b2b2-7ef0106068dc",
+            "no": "3",
+            "name": "阿蕙早餐店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3e0261da-580c-4d7a-97e7-50708a8f55ab",
+            "no": "5",
+            "name": "郭太太麵店"
+        }
+    ]
+}

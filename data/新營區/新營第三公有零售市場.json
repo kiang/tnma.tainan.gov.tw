@@ -1,0 +1,98 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=88e9489a-3c40-46a1-8ef7-d879dc45deb9",
+    "name": "新營第三公有零售市場",
+    "area": "新營區",
+    "scope": "蔬菜、水果、小吃、海產、豬、雞、鴨",
+    "address": "臺南市新營區三民路36號",
+    "phone": "06-6326519",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812042737390.jpg",
+    "story": "臺南市新營第三公有零售市場是一個社區型小而巧的市場，攤商多為從年輕時就在此經營的長輩，近幾年經過中部辦公室的輔導、自治會的努力及攤商的合作，從硬體整修到名攤輔導，使市場更上一層樓。除了販售新鮮蔬果雞鴨魚肉外，早上有各式中式早餐，也可買到新鮮現作的春捲、特色的燻茶鵝、古早味的碗粿、米苔目等，中午也有飯、麵及素食，是採買用餐的好去處。",
+    "built": "於61年5月正式啟用",
+    "background": "「新營第三公有零售市場」於61年5月正式啟用，現有鋪位 52鋪、攤位62攤、臨攤 26攤，合計140攤（鋪）位。\n市場內規劃32格機車停車格及4格身障機車位，一旁的同濟街及三民路上各有停車場，採買方便。\n交通便利，由新營火車站沿三民路步行約5分鐘，或搭乘大臺南公車黃幹線、黃1、黃2、黃3、黃4、黃9於第三市場站下車，也可於新營火車站旁租借觀光T-Bike暢遊新營。",
+    "feature": "榮獲101年優良市集1星認證。\n榮獲102年優良市集1星認證。\n榮獲107年優良市集2星認證。\n榮獲109年優良市集2星認證。\n榮獲101年樂活名攤2星認證計1攤。\n榮獲102年樂活名攤1星認證計1攤。\n榮獲107年樂活名攤2星認證計2攤。\n榮獲108年樂活名攤1星認證計7攤、2星認證計2攤。\n榮獲109年樂活名攤2星認證計7攤、3星認證計4攤。",
+    "count_stores": 140,
+    "category": "美食小吃、各項民生用品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2c6c1df6-2455-462e-ac3f-8885907b13a2",
+            "no": "10",
+            "name": "來雞特香雞排"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=37df847c-ee0e-4ede-8bd6-58acf769f64d",
+            "no": "100",
+            "name": "阿霞雞肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=85f25176-afdd-457e-90c0-c54a168c15b2",
+            "no": "107",
+            "name": "朝清麵店豆菜麵春捲"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5b0f28cc-87ae-40f9-9e47-3ba2467724ef",
+            "no": "108",
+            "name": "新鮮蔬菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=7bd0a185-8f6b-440d-9155-cfebf8f4ef0e",
+            "no": "3",
+            "name": "新白蘭美容院"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=02b1b87e-354f-4459-9b3f-47630c1174e8",
+            "no": "4",
+            "name": "阿專沙鍋魚頭"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f701c35f-45e7-4b85-9e0f-991dcd4317a4",
+            "no": "44",
+            "name": "麗蘭蔬菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=1f0ad992-f5f4-443f-8ea8-3035f4ce7980",
+            "no": "51",
+            "name": "崇光蔬食"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=7c3caec1-fa9b-4573-a5f2-e550d26cca5b",
+            "no": "A07",
+            "name": "阿伯塑膠袋"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=9788a680-96d7-4b1f-a4d7-9ab109b0ee95",
+            "no": "A08",
+            "name": "阿婆米糕"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=bde3bb1a-1adb-4197-bc81-7aeadf578682",
+            "no": "A10",
+            "name": "筒仔雞北平烤鴨"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=182a1e6d-316f-441f-abc1-f497f60de328",
+            "no": "A13號攤",
+            "name": "阿慧水果"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=6e74195d-85be-4ed4-87e1-8c9e75ea0b14",
+            "no": "A14號攤",
+            "name": "阿鑾鵝肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=1b0247d7-23e7-4e49-b604-662c0b6f5387",
+            "no": "A15號攤",
+            "name": "阿祥鮮魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=4f975d7c-b04b-4785-b352-feebec7c5f09",
+            "no": "A17",
+            "name": "玉英火鍋料"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a2a0c344-b64a-46df-aa8b-e95342076657",
+            "no": "A19",
+            "name": "台灣生鮮豬肉"
+        }
+    ]
+}

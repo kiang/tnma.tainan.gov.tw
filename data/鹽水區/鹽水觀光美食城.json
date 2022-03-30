@@ -1,0 +1,63 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=0aaa597e-6e3b-4a9d-b0e8-c9c617a51729",
+    "name": "鹽水觀光美食城",
+    "area": "鹽水區",
+    "scope": "小吃、其他",
+    "address": "臺南市鹽水區康樂路56號",
+    "phone": "06-6524572",
+    "time": "全日",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812033854185.jpg",
+    "story": "原鹽水點心城所在地建物老舊，用餐環境不佳，僅少數攤商營業。為了改善老舊建物和用餐環境問題，並結合港邊整體環境，臺南市政府斥資3,500萬元著手改建，鹽水觀光美食城以配合打造低碳的城市願景及有助於發展觀光產業為目標。",
+    "built": "民國69年",
+    "background": "鹽水美食城於104年11月份進駐啟用，設計規劃29攤位、用餐共食區252座位及停車場18個停車位。",
+    "feature": "鹽水舊稱月港或月津，我們常聽到「一府（台南）、二鹿（鹿港）、三艋舺（萬華）、四月津（鹽水）」，鹽水觀光美食城就位於永成戲院與鹽水月津港旁，以美食城為中心串連周邊景點，如武廟、八角樓、月津港、永成戲院等，結合傳統美食與燈景藝術，為觀光客留下美好回憶。吃、喝、玩、樂盡在「臺南鹽水觀光美食城」。\n榮獲106、108年優良市集 2星認證\n榮獲109年優良市集3星認證\n109年臺南市公有市場環境整潔維護競賽優良獎",
+    "count_stores": 29,
+    "category": "飲食類",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f8e6d07a-f641-4a15-a1be-b79f7b0bbcee",
+            "no": "1",
+            "name": "雙貓快炒"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3608f3f4-9a3e-4e5f-b066-94d3eaa0082d",
+            "no": "10",
+            "name": "真好味意麵"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=67fce835-568a-4d7b-b98c-ea2e825304d4",
+            "no": "12",
+            "name": "騏杬茶坊"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=8df7e37f-20c8-49da-a1c8-3a39b7cbf8b2",
+            "no": "16、18",
+            "name": "胡家豬頭飯"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d5b6faed-df18-4e36-ac79-830cf2b65857",
+            "no": "2",
+            "name": "李家當歸鴨"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ca8e414c-ae22-4f68-98fe-410266cf4b67",
+            "no": "23",
+            "name": "萬年刀削麵"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=8a0fb087-dec3-45f9-89c2-2c3abc81f9ef",
+            "no": "25",
+            "name": "古早味紅茶"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=63aa7aa9-d259-492e-97c9-dc90b3d06be0",
+            "no": "3",
+            "name": "(周)三代祖傳碗粿"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=aa6cbb90-84d1-4a35-aef5-0a66607befbe",
+            "no": "9",
+            "name": "阿三意麵"
+        }
+    ]
+}

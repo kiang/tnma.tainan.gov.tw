@@ -1,0 +1,158 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=24d89519-144d-4b3b-98c3-93ec6f2d4eda",
+    "name": "新化公有零售市場",
+    "area": "新化區",
+    "scope": "蔬菜、小吃、海產、豬、羊、衣物、飾品、鞋、南北乾貨、五金陶瓷、雞、鴨、鵝、其他、花卉、化妝品、保養品、其他",
+    "address": "臺南市新化區中正路369巷42-3號",
+    "phone": "06-5902761",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812045409736.jpg",
+    "story": "新化區在日治時期曾為極風光之市街，當年新化地區與府城台南往來頻繁，造就出蓬勃的商業買賣，中山路、中正路一帶，由於地處交通要道，人潮來往，興建了大批洋樓、街屋，形成繁榮的商店街，交易極為熱絡。新化市場的巴洛克式建築壯觀亮麗，堪稱原臺南縣新化鎮的地標。巴洛克式老街(中正路)擁有近八十年歷史，這邊的商家多為經營幾十年的傳統老店，與老街的現代便利商店相比，形成一種新舊並陳的趣味。",
+    "built": "民國62年重建",
+    "background": "創設於臺灣光復前，原為竹木搭蓋遮風避雨之簡陋建築，以供農民販售自產之地方特色大宗農作物為主(如麻竹筍等)。民國58年市場因發生火災，原有房舍付之一炬，災後原新化鎮公所全力籌措經費計畫著手重建，於民國60年開始動工興建，民國62年恢復營業。攤販數：159個 ，主要販售：畜肉類、飲食類、蔬菜類、雜貨類及其他類商品。",
+    "feature": "1.榮獲108年優良市集1星認證\n2.榮獲109年優良市集2星認證",
+    "count_stores": 159,
+    "category": "畜肉類、飲食類、蔬菜類、雜貨類及其他類商品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=10f81401-87fe-4631-beb5-808b1ffa4b5b",
+            "no": "08",
+            "name": "里長茶葉蛋"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=cd8f749f-e2b7-4104-ad64-85af313f5ad2",
+            "no": "101",
+            "name": "宗興商號"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a58a35f6-7380-4af9-b42b-99982ef9e9cb",
+            "no": "104",
+            "name": "明賢號"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=cde6fb30-fa21-4d3b-8793-8e7be99e6264",
+            "no": "106",
+            "name": "福來號"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e055dec3-e859-41fe-ac65-184eda6b2171",
+            "no": "109",
+            "name": "魯珠商號"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=842f9b46-d2a9-4747-bfc9-4c84a5086876",
+            "no": "112",
+            "name": "徐家烤雞攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=28c4c8e0-aa72-43cc-b96d-1b67abcf9ad3",
+            "no": "117",
+            "name": "美佳美"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=730568fe-3f71-4b0f-a90b-988ec5625468",
+            "no": "149",
+            "name": "阿美便當店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5d2659a9-aa60-4cfe-9239-6b4edee8463f",
+            "no": "158",
+            "name": "勝春堂中藥店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0584f699-811f-4863-8ee6-cfee632b1222",
+            "no": "17",
+            "name": "金水冷飲部"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ae44121c-072d-437f-abb6-2fe83196cf43",
+            "no": "23",
+            "name": "東發號肉粿仔"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0acc11f1-17e2-4b21-a08a-7c3bcb514877",
+            "no": "24",
+            "name": "守一素食"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2c92c772-0ad5-4722-b689-29d7f337349b",
+            "no": "29",
+            "name": "新泰源雜貨店鋪"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d433766c-c635-4e78-a09e-afaee12ed3f9",
+            "no": "4",
+            "name": "共益冰果室"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=472b4e20-94fe-4b6f-bf8e-fb7073fa78d8",
+            "no": "40",
+            "name": "昆旺麵攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ff91598b-cc87-4a10-8246-4540952aaf6b",
+            "no": "41",
+            "name": "惜福蔬菜攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3cd64071-6a65-4831-9e65-241ac5b7ac8f",
+            "no": "42",
+            "name": "和海號魚員店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ceea605c-a381-435c-8c37-ba39fd0913d4",
+            "no": "46",
+            "name": "永展商行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b795129e-5a98-4ff6-b77e-179d1425e2c5",
+            "no": "5",
+            "name": "新復興店鋪"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d96865ae-e416-4708-9c55-5b3f0072a0b7",
+            "no": "63",
+            "name": "福德鮮魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=da8b8f88-cb6e-46da-b8f8-f9c4a2aa6d7b",
+            "no": "73",
+            "name": "賢溫室蔬菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ee16c823-b96e-4966-9c7e-1d350b96a8d7",
+            "no": "74",
+            "name": "金花點心攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c1eb38f8-ca89-4209-80da-74bd1c4bd152",
+            "no": "76",
+            "name": "阿丁鮮魚鋪"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ce0881df-8430-46f5-9a37-5ebfdb04ecbd",
+            "no": "77",
+            "name": "金環雜貨攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f8fd35de-60cf-4153-a059-1c8c68176cc6",
+            "no": "78",
+            "name": "阿明雞肉攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2625d569-d47d-47d6-a90c-9397f2f5e6d2",
+            "no": "79",
+            "name": "帥ㄟ鮮魚鋪"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c0fbf9aa-c820-44ac-86bb-f8f32d260831",
+            "no": "80",
+            "name": "啟文商行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=19e87bec-6608-417f-a6d4-9a411db96b6c",
+            "no": "98",
+            "name": "黃家油條"
+        }
+    ]
+}

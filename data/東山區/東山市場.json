@@ -1,0 +1,38 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=181b840c-0a58-49c1-b4b9-e4e1f20dfc80",
+    "name": "東山市場",
+    "area": "東山區",
+    "scope": "其他",
+    "address": "台南市東山區東中里20鄰東山市場1-30號",
+    "phone": "06-6803331",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812043506541.jpg",
+    "story": "經濟部於98年補助本市場辦理改善工程，決算金額新台幣755萬元。然而，東山公有零售市場位處偏遠山區，人口數不多，人口結構老化，又臨近新營、白河、六甲三大市場的競爭，影響東山市場的營運，致使商機逐漸流失，攤商進駐營業意願不高。為活絡市場商機，經積極努力，於103年9月成立市場自治會，並於103年11月15、22日舉辦二場促銷活動，增進攤商進駐營業意願。",
+    "built": "成立於民國65年",
+    "background": "1.東山市場興建於 65年 8月，於 66年 12月開始使用。\n2.地址：台南市東山區東中里20鄰東山市場1-30號。\n3.電話：06-6803331",
+    "feature": "市場雖小，該有的市場機能一應俱全，有麵攤、素食攤、禽肉攤、魚蝦攤、水果攤、米店、水果店、早餐店、雜貨店、金紙店、鐘錶店等。\n榮獲109年度優良市集2星認證",
+    "count_stores": 66,
+    "category": "生活必需品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d51e4a73-f189-4d01-b77c-5ddf46eb108f",
+            "no": "甲3",
+            "name": "振成金香舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3fa2f09a-ad6d-4018-ace3-eeb7dabf6591",
+            "no": "甲4",
+            "name": "明輝商店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e85516e9-bab3-4478-aa8f-8b008803ea84",
+            "no": "甲5",
+            "name": "金盃美而美"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e68aa028-ddbf-49a8-86cf-4a93bbcce8f5",
+            "no": "甲6",
+            "name": "可口水果攤"
+        }
+    ]
+}

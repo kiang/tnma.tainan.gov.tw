@@ -1,0 +1,58 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=c9f30a05-4516-4eb7-a002-417ccbb00102",
+    "name": "新市傳統夜市",
+    "area": "新市區",
+    "scope": "其他、其他、其他",
+    "address": "新市區中正路252號",
+    "phone": "-",
+    "time": "每週日晚間16:00~23:00",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200811103806413.jpg",
+    "story": "成立時間：民國65年\n每週日晚間營業，是大家每週一次採購所需的好地方，已約有45年歷史，乘載了居民從小至大的回憶。",
+    "built": "民國65年",
+    "background": "每週日晚間16:00~23:00營業，約有140攤販售商品包含有傳統五金百貨、鞋類、手機配件、衣服，各式美食小吃牛排、蔥油餅、現榨果汁等等應有盡有。",
+    "feature": "每週一次採買日常生活所需的好地方，販售商品多元，美食、生活用品、服飾類等等皆有販售。",
+    "count_stores": 140,
+    "category": "販售商品包含有傳統五金百貨、鞋類、手機配件、衣服，各式美食小吃牛排、蔥油餅、現榨果汁等等應有盡有。",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=6421286c-a240-45cd-aafb-4eb2d80747b5",
+            "no": "-",
+            "name": "台北深坑梅姊臭豆腐"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=27e09e96-a721-41a8-91b7-1d864a0a4b32",
+            "no": "-",
+            "name": "甘草芭樂"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=11ffdaf0-5e1d-4d15-9186-f115151728ac",
+            "no": "-",
+            "name": "法貝客可莉餅"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2aa0bf5a-3573-4bd8-98a3-bdfdf8354fd3",
+            "no": "-",
+            "name": "真好味蔥油餅"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=115e0602-9a0f-4a98-830e-b8b02bf0b913",
+            "no": "-",
+            "name": "傑旗魚黑輪"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d2e21573-7e60-435d-9fa1-cdeb4e728275",
+            "no": "-",
+            "name": "性格春捲"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a3094918-473a-456a-beb3-63f5259706da",
+            "no": "-",
+            "name": "福氣唐揚雞"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=cd949b7d-8280-49c1-ab5c-de375a36953a",
+            "no": "-",
+            "name": "韓國風"
+        }
+    ]
+}

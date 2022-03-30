@@ -1,0 +1,113 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=7eaaa375-f918-4f9d-8d02-fd9a4fe1f26d",
+    "name": "麻豆市三公有零售市場",
+    "area": "麻豆區",
+    "scope": "蔬菜、小吃、海產、豬、雞",
+    "address": "臺南市麻豆區忠孝路6號",
+    "phone": "06-5722143",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812034850693.jpg",
+    "story": "本市集於民國79年完工啟用，餘閒置樓層於縣市合併後積極活化本市場，規劃二樓為麻豆市場管理員聯合辦公室、會議室及教育諮詢室，做為攤商聯誼活動與辦理相關教育訓練之場所；三樓、四樓由社會局進行代管利用，分別作為麻豆區日間照顧中心、麻豆區長照整合服務園區、麻豆區社會福利服務中心。",
+    "built": "民國 79年",
+    "background": "本市場位於麻豆區市中心，生活機能方便，鄰近消防局、警察局、各金融機構，附近20公尺內亦有全聯社、小北百貨、頂好生鮮、金玉堂書局及各式餐飲小吃，麻豆市四市場（原中央市場）隔一條馬路於本市場對面、麻豆市五市場位於本市場東側，形成群聚效應、共生共榮之商圈。\n市場規劃攤位數47個，承租率100%，雖市場規模不大，但傳統飲食、豬肉、魚蝦、蔬菜、水果等各項營業項目一應俱全，內有多攤歷史悠久之傳統米糕與麻豆在地名產碗粿等，各個都是在地居民相伴成長的傳統好滋味，未來將持續朝向安全、衛生的品牌市集目標邁進，並用不滅的傳統熱情繼續打動消費者的心。",
+    "feature": "榮獲107年優良市集2星認證\n榮獲109年優良市集3星認證",
+    "count_stores": 47,
+    "category": "各項民生物品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=531347a1-9ac6-4ab7-a2f7-6b9df0774e45",
+            "no": "02",
+            "name": "梅記熟食"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=164331d6-bfcd-43a7-baa4-84cb67224643",
+            "no": "03",
+            "name": "小婷糖仔餅"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b42d9ad0-a0d7-4854-b224-d1273a7f123b",
+            "no": "04",
+            "name": "詮記熟食"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a2b51d41-6999-4de3-a506-301adb50f816",
+            "no": "09",
+            "name": "阿明菜商"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=26047d7d-ec26-4605-a9c1-c23950043aa6",
+            "no": "18",
+            "name": "永吉豬肉舖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f1d9269f-2384-4aa7-916e-0a5cf221fd4d",
+            "no": "19",
+            "name": "明和碗粿"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a82c9579-8b1b-4f35-b79b-ed36f7c1e4e5",
+            "no": "22",
+            "name": "李爽碗粿"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=257cad4a-8b29-43f2-98cc-aae03c968cff",
+            "no": "26",
+            "name": "李家久品燒臘"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ddddb223-bc8e-4fc0-880c-87e819593d8c",
+            "no": "27",
+            "name": "市三雞鴨批發商"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a6fba8b3-bad1-405e-b29c-23ed4e5d7ca4",
+            "no": "30",
+            "name": "三通活海鮮"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d7c105e5-a9e5-4615-8879-9146ed72e1cf",
+            "no": "32",
+            "name": "三明商號"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ffe47df1-27d7-4fd5-b7a0-f42fc43e800d",
+            "no": "38",
+            "name": "品香鹽水雞.鹽水鴨"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f84ef38c-200d-4807-8c23-7779e29b867d",
+            "no": "39",
+            "name": "活魚行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=08aa59f5-a5c3-4a8a-9356-e60d65665279",
+            "no": "40",
+            "name": "和興行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=35215469-fce5-4b2a-aee1-8d0bd528396c",
+            "no": "41",
+            "name": "蔬菜綜合攤"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f84003f8-6133-4883-8b44-c84c14a862f2",
+            "no": "42",
+            "name": "森裕海產行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=79300fae-ac21-4802-a4c1-d92a6d0fd59e",
+            "no": "44",
+            "name": "炎山碗粿"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=13fa4f9a-c084-4d37-ad9a-6184bebec025",
+            "no": "45",
+            "name": "龍鳳水果行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=809d22dd-af32-4c3f-8e3d-91951d9a2578",
+            "no": "8",
+            "name": "德春米糕"
+        }
+    ]
+}

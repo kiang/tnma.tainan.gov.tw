@@ -1,0 +1,83 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=dc1eac49-8828-4c64-a062-0f8cfa3f6391",
+    "name": "水仙宮公有零售市場",
+    "area": "中西區",
+    "scope": "",
+    "address": "臺南市中西區海安路二段230號",
+    "phone": "06-2216737",
+    "time": "早市。(第四個禮拜的禮拜一公休)",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812033057538.jpg",
+    "story": "水仙宮草創於西元1683年，在日據時期便由日本人於水仙宮廟的廟埕所興建，其原名為「長樂市場」。之後便由台南市政府民國48年設立於現址，而在民國74年大火後，便由政府再予以改建，並正式啟用而至今日。水仙宮市場名字的由來乃係因為它是以水仙宮廟為中心，並且水仙宮廟乃被政府列為三級古蹟，是在地人相當有名且規模相當大的一間宮廟。",
+    "built": "民國48年成立，74年改建。",
+    "background": "本市集攤販數有130攤，主要販售：果菜、魚蝦類等商品，營業時間：上午7時至12時。",
+    "feature": "本市集榮獲107年度 優良市集 1 星認證 ，以水仙宮廟為中心，與永樂市場、普濟街市場相鄰。\n榮獲109年優良市集2星認證",
+    "count_stores": 130,
+    "category": "果菜、魚蝦類等商品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=67a08d86-a06f-497f-a6e8-05dd168cea6f",
+            "no": "109",
+            "name": "深海鮢濄魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=627ae954-6579-466f-a0a2-22b943eeee4b",
+            "no": "125",
+            "name": "阿暖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=26dd2199-cac3-43ff-9cfd-1453b31cd486",
+            "no": "140",
+            "name": "杜燈順青草店"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=bdb7c506-a00c-43f7-8260-4f85715bb5a5",
+            "no": "147-1",
+            "name": "阿良水果"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2ed94610-ac3f-4c3b-af19-622c90f4175a",
+            "no": "35",
+            "name": "養樂多"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d6df6487-dbb0-4412-889b-49ed2222dadf",
+            "no": "36",
+            "name": "君文霖"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=01ead980-e84b-4efc-a09d-211f5412374f",
+            "no": "37",
+            "name": "尚鮮蔬果行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=1cff842f-d851-4383-8c61-0b95c0be7edb",
+            "no": "40",
+            "name": "各種水果"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=edb86a73-4a35-44f7-8544-8c2e5b918573",
+            "no": "41",
+            "name": "阿成切仔擔"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c94016e2-6d0e-49bb-9830-86b9faa1e798",
+            "no": "53-1",
+            "name": "娥青菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=517df6d1-a222-4bee-b471-368a6147355f",
+            "no": "72",
+            "name": "阿惠蔬菜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c0a6bc16-7937-41ac-b6ef-0fba99a0b90f",
+            "no": "97",
+            "name": "蘇海產"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=df665a33-3428-4c3f-9767-60afa746c531",
+            "no": "99",
+            "name": "寶牛肉品專賣"
+        }
+    ]
+}

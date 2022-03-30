@@ -1,0 +1,128 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=a437d2a9-74e5-446c-bf75-d0a1081a2f37",
+    "name": "佳里傳統夜市",
+    "area": "佳里區",
+    "scope": "小吃、衣物、飾品、其他",
+    "address": "佳里區平等街、信義一街、忠仁街及博愛街等",
+    "phone": "-",
+    "time": "每週四晚間16:30~23:30",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812044616005.jpg",
+    "story": "大約民國70年左右，台灣經濟蓬勃發展的年代，在佳里區忠仁街的一條小巷道裡，開始出現了零星攤商販售小吃、涼水等，提供居民生活便利性。久而久之攤商們不約而同每逢星期四，就匯集在此生成一個小市集，提供左鄰右舍下班後闔家休閒、購買晚餐的好地方。",
+    "built": "大約民國70年左右",
+    "background": "每週四晚間16:30~23:30營業，約有200攤，販售美食小吃、生活百貨、服飾等等。",
+    "feature": "榮獲107年度優良市集1星認證\n榮獲109年度優良市集2星認證",
+    "count_stores": 200,
+    "category": "販售美食小吃、生活百貨、服飾等等。",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=66acb2c6-ceaf-4b77-8c49-83a09804858a",
+            "no": "-",
+            "name": "不悔亭仙草茶"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=db412140-a52d-4aea-b914-b7821dfe98c0",
+            "no": "-",
+            "name": "黃金Q三明治"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=16f4da52-cd6a-48b7-94cb-fd462216a8cb",
+            "no": "-",
+            "name": "糕品味鮮奶雞蛋糕"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a872915e-660b-49ed-9e11-81fa234ec6a3",
+            "no": "-",
+            "name": "佳里陳記古早味糖蔥"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=0bd00a9c-a8cd-4d1e-88cf-657e61d7be50",
+            "no": "-",
+            "name": "汁優生現搾蔬果原汁"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=1e3db6b6-0b84-48dd-ab6d-df98ea115525",
+            "no": "-",
+            "name": "小鮮肉雞腿酥"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=d4727d5b-fc54-4bf8-8781-227a4abf64f4",
+            "no": "-",
+            "name": "羅記酥炸大尾魷魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=51dd2ef4-9c80-4fb9-aa84-d296a8e74785",
+            "no": "-",
+            "name": "養樂多雞蛋糕"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=577fb695-28b6-409a-b2ac-5847201443cd",
+            "no": "-",
+            "name": "斌蚵仔煎"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e9e0cf68-c92f-4949-836b-12d5e18e67dd",
+            "no": "-",
+            "name": "進石頭玉米"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=fa5fcd04-bdff-4196-854b-e7aa66927ff8",
+            "no": "-",
+            "name": "佐伊麻將賓果"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ae03d623-88d0-42f4-a0f3-4edf77068748",
+            "no": "-",
+            "name": "素食蚵仔煎"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=dc7eb7e6-2aa6-4884-aea3-7ef132a829b2",
+            "no": "-",
+            "name": "和津壽司"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=8ab4b0e3-8d3d-4c95-8426-43f870db971a",
+            "no": "-",
+            "name": "Mr.阿建起司蛋燒"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=a0935000-36ee-4848-992a-3fc73fe3e7ce",
+            "no": "-",
+            "name": "一品香排骨酥"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=14c7fab6-79ae-42ad-bd04-f0b524e5460a",
+            "no": "-",
+            "name": "翔不到鮮蝦餅爆肉"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=109cc7e1-a7b6-4541-a583-c0f31a0c5542",
+            "no": "-",
+            "name": "安安炸蛋蔥油餅"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c88e3c85-f2ad-4f28-8b12-6622f193e5ae",
+            "no": "-",
+            "name": "拔絲地瓜"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=55bc25eb-34e8-4c4b-82cd-ac00c65ad535",
+            "no": "-",
+            "name": "晶棧杏仁茶"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e6d4c711-61d7-498b-83bd-d1014d532686",
+            "no": "-",
+            "name": "新疆羊肉串"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=fefc6e4e-aace-4f8c-82ab-6830c99e008a",
+            "no": "-",
+            "name": "九如三明治"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=05a26af3-6ed1-433c-92af-e4516099fbe9",
+            "no": "-",
+            "name": "日船章魚小丸子"
+        }
+    ]
+}

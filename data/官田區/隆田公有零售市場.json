@@ -1,0 +1,78 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=8ce78a6c-3add-461a-93c9-12e94023f11e",
+    "name": "隆田公有零售市場",
+    "area": "官田區",
+    "scope": "蔬菜、水果、小吃、海產、豬、雞、鴨",
+    "address": "臺南市官田區隆田里中山路一段55巷2號",
+    "phone": "06-5793043",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812033853219.jpg",
+    "story": "隆田市集形成於官田公所及隆田火車站附近，此地為政治、交通樞紐，攤販聚集，公所為整頓市容，民國66年於現址設置市場。之後因陸軍營區設置於隆田村，阿兵哥對市場的消費量很大，公所為因應需求，民國85年在市場旁興建臨時攤販集中場。民國102年5月市場與攤販集中場正式合併為隆田公有零售市場。",
+    "built": "民國66年",
+    "background": "隆田公有零售市場為一傳統市場，位於隆田火車站前方200公尺處，鄰近區公所、衛生所、學校、農會等，地理位置佳，消費便利，供應魚蝦水產、禽畜肉品、新鮮蔬果、五金雜貨、衣飾鞋包及餐飲等，營業時間為清晨4點至傍晚11點，以早市為主，下午及夜間僅有3攤餐飲攤；規劃63攤14鋪，採棋盤式設計，動線流暢，通風佳，採光明亮。",
+    "feature": "107年榮獲優良市集 1星評核認證\n109年榮獲優良市集 3星評核認證",
+    "count_stores": 77,
+    "category": "供應溫體豬肉、雞鴨魚肉、新鮮疏果等物品",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=ed39aca6-6bb2-4298-be21-77131bc04fbe",
+            "no": "A01",
+            "name": "水伯早餐"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=38f2c0bc-f8e1-4efd-b6ad-99e81d9a78f8",
+            "no": "A02AM",
+            "name": "虹方鴨肉麵"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=42a7ad4e-0ed5-46a2-a7fe-2fff7d1ebd56",
+            "no": "A03、A04",
+            "name": "阿進肉燥飯"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=69e15e67-7fd9-40de-a0bf-9b82bcfe0156",
+            "no": "B01AM",
+            "name": "阿霞早餐"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=70a91625-073a-4af6-9887-516b4d4454fd",
+            "no": "C01",
+            "name": "小美設計師服飾"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=3705de19-4cd5-416b-a4b4-9303cdccdcfd",
+            "no": "C03",
+            "name": "恩惠潤餅"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=9b756ace-03a1-4aa6-bd7d-35747a75c73e",
+            "no": "D14",
+            "name": "綉群鮮雞"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2b4f411a-1bfc-4910-9ee7-219221b864b3",
+            "no": "D18",
+            "name": "秋如鮮魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=73b4797f-a418-4466-a59b-358678564b14",
+            "no": "E04",
+            "name": "隆昌商號"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=c3cdcc5d-5029-4d15-b0d6-bad91bef1912",
+            "no": "E06",
+            "name": "福地蔬菜行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=2b3380ab-e8bc-401c-a0d1-151f178f4a71",
+            "no": "E07",
+            "name": "瑞展水果行"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=efb11926-d3c7-4d8e-a9b5-303ba8aa04fa",
+            "no": "E13",
+            "name": "平安吉祥福"
+        }
+    ]
+}

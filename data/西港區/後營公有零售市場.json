@@ -1,0 +1,58 @@
+{
+    "url": "https:\/\/tnma.tainan.gov.tw\/Market.aspx?Cond=47b9b487-7627-4b4a-9b97-3a948fb37330",
+    "name": "後營公有零售市場",
+    "area": "西港區",
+    "scope": "蔬菜、水果、小吃、豬",
+    "address": "台南市西港區營西里後營9-2號",
+    "phone": "06-7961023",
+    "time": "早市",
+    "img": "https:\/\/tnma.tainan.gov.tw\/FileDownLoad\/Market\/Big\/20200812033949075.jpg",
+    "story": "以普護宮為主軸而發展的市集，自0206美濃大地震後，拆除二樓及地下室、補強一樓，現整修完成並重行規畫僅保留一樓為市場營運使用，以水產類佔大宗，107年首次參與星等評核，獲得一星市集。",
+    "built": "建於日據時代",
+    "background": "後營市場是一個小而美的市場，販售的食材不多，卻供應附近鄰里生活所需，緊鄰普護宮為附近居民的生活中心。",
+    "feature": "榮獲107年優良市集2星認證\n榮獲109年優良市集3星認證\n榮獲109年臺南市公有市場環境整潔維護競賽優等獎",
+    "count_stores": 15,
+    "category": "以果菜、水產類佔大宗",
+    "stores": [
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=fddaf8ce-760b-444d-b4c2-0242bd31620c",
+            "no": "1",
+            "name": "洧清鮮魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=edc525d2-7215-405d-bc24-ec7242f8b886",
+            "no": "10-11",
+            "name": "天賜良雞"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=f649edc3-3e9f-4bfb-8733-3b5ec5103013",
+            "no": "12",
+            "name": "大眾號"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=e99f73e7-5f79-424d-992c-b44a033ebe06",
+            "no": "15",
+            "name": "吉鮮魚鋪"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=430d3f74-dd29-423c-8944-7c531b2ee81b",
+            "no": "2",
+            "name": "阿得碗粿"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=5039df65-3b9f-44a7-aef3-a2c36a9a1c42",
+            "no": "4",
+            "name": "金源鮮魚"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=fa9588e5-1e16-4c04-8a87-95eb45cb4948",
+            "no": "5",
+            "name": "客來堡美食"
+        },
+        {
+            "url": "https:\/\/tnma.tainan.gov.tw\/Store.aspx?Cond=b175625c-5b85-4852-93b8-58e4de38fe49",
+            "no": "8",
+            "name": "秋月蔬菜"
+        }
+    ]
+}
