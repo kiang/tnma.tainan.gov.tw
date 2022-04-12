@@ -4,6 +4,10 @@ if (!file_exists($rawPath)) {
     mkdir($rawPath, 0777, true);
 }
 
+$fc = [
+    'type' => 'FeatureCollection',
+    'features' => [],
+];
 for ($i = 1; $i <= 7; $i++) {
     $pageFile = $rawPath . '/page_' . $i . '.html';
     if (!file_exists($pageFile)) {
@@ -101,13 +105,30 @@ for ($i = 1; $i <= 7; $i++) {
         $parts = explode('"', substr($raw, $rawPos, $rawPosEnd - $rawPos));
         $data['latitude'] = isset($parts[2]) ? floatval($parts[2]) : 0.0;
         $data['longitude'] = isset($parts[10]) ? floatval($parts[10]) : 0.0;
-        $dataPath = dirname(__DIR__) . '/data/' . $data['area'];
+        $dataPath = dirname(__DIR__) . '/docs/data/' . $data['area'];
         if (!file_exists($dataPath)) {
             mkdir($dataPath, 0777, true);
         }
+
+        $fc['features'][] = [
+            'type' => 'Feature',
+            'properties' => [
+                'area' => $data['area'],
+                'name' => $data['name'],
+            ],
+            'geometry' => [
+                'type' => 'Point',
+                'coordinates' => [
+                    $data['longitude'],
+                    $data['latitude']
+                ],
+            ],
+        ];
 
         file_put_contents($dataPath . '/' . $data['name'] . '.json', json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
         $pos = strpos($page, '<td>名稱：', $posEnd);
     }
 }
+
+file_put_contents(dirname(__DIR__) . '/docs/points.json', json_encode($fc, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));

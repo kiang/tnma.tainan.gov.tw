@@ -1,0 +1,901 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "玉井區",
+                "name": "玉井公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45832429999996,
+                    23.119525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "新市區",
+                "name": "新市公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30833400000006,
+                    23.035332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "北區",
+                "name": "開元公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.21907599999997,
+                    23.0066441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "佳里區",
+                "name": "佳里中山公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.17684559999998,
+                    23.1610394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "安平區",
+                "name": "安平公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.165075,
+                    23.001347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "南區",
+                "name": "文華公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.19018600000004,
+                    22.985049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "六甲區",
+                "name": "六甲市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35156299999994,
+                    23.2301902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "善化區",
+                "name": "善化公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29170399999998,
+                    23.132186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "中西區",
+                "name": "友愛公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.199631,
+                    22.991417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "安南區",
+                "name": "和順公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.19608399999993,
+                    23.042926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "中西區",
+                "name": "復興公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.21062359999996,
+                    22.9889518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "白河區",
+                "name": "白河公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.41477600000007,
+                    23.34832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "仁德區",
+                "name": "仁德公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.25322719999997,
+                    22.9725952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "學甲區",
+                "name": "學甲公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.18005330000005,
+                    23.2329904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "麻豆區",
+                "name": "麻豆市三公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.25145999999995,
+                    23.185082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "新化區",
+                "name": "新化公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35346500000003,
+                    22.9686614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "麻豆區",
+                "name": "麻豆市五公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.24970000000008,
+                    23.185392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "鹽水區",
+                "name": "鹽水觀光美食城"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.319388,
+                    120.268156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "安南區",
+                "name": "本淵寮公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.17692599999998,
+                    23.0528619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "新營區",
+                "name": "新營第三公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32007599999997,
+                    23.307566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "關廟區",
+                "name": "關廟公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32705880000003,
+                    22.9615156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "中西區",
+                "name": "第一小康公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.19307600000002,
+                    23.0035451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "西港區",
+                "name": "西港公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.20294799999999,
+                    23.121078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "官田區",
+                "name": "隆田公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31863210000006,
+                    23.192674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "安南區",
+                "name": "土城公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.129239,
+                    23.062399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "北區",
+                "name": "花園夜市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.011198,
+                    120.199882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "山上區",
+                "name": "山上公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35225300000002,
+                    23.102988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "鹽水區",
+                "name": "鹽水公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.26735129999997,
+                    23.320948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "柳營區",
+                "name": "柳營公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31285550000007,
+                    23.2756872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "中西區",
+                "name": "東菜市公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.20978500000001,
+                    22.9913851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "仁德區",
+                "name": "仁德中洲公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.24993199999994,
+                    22.909584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "東山區",
+                "name": "東山市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.40219679999996,
+                    23.3187698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "佳里區",
+                "name": "光復公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.17600830000003,
+                    23.1637211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "北門區",
+                "name": "北門市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.12211400000001,
+                    23.270936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "中西區",
+                "name": "水仙宮公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.196843,
+                    22.995706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "永康區",
+                "name": "復華夜市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.009081,
+                    120.245741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "中西區",
+                "name": "西門淺草青春新天地"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.19762600000001,
+                    22.9937791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "大內區",
+                "name": "大內公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35676790000002,
+                    23.1190099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "楠西區",
+                "name": "楠西公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.177302,
+                    120.485495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "學甲區",
+                "name": "學甲區傳統夜市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.236625,
+                    120.179246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "柳營區",
+                "name": "柳營小腳腿公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.36597699999993,
+                    23.293917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "後壁區",
+                "name": "後壁安溪市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35363959999995,
+                    23.3252512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "下營區",
+                "name": "下營中營市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2775,
+                    23.215583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "左鎮區",
+                "name": "左鎮公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.51063720000002,
+                    22.9314103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "後壁區",
+                "name": "後壁菁寮市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32769499999995,
+                    23.3763699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "西港區",
+                "name": "後營公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.21803999999997,
+                    23.1396239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "佳里區",
+                "name": "佳興公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1805789,
+                    23.1874615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "將軍區",
+                "name": "漚汪市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.15673830000003,
+                    23.1997986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "新市區",
+                "name": "新市傳統夜市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.077022,
+                    120.292335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "下營區",
+                "name": "下營公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120,
+                    23
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "佳里區",
+                "name": "佳里傳統夜市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.157574,
+                    120.181908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "學甲區",
+                "name": "學甲頂洲公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.202514,
+                    23.287871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "將軍區",
+                "name": "將軍市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.136738,
+                    23.215423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "中西區",
+                "name": "保安公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.194075,
+                    22.989445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "東區",
+                "name": "崇德公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.22279520000006,
+                    22.9772072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "北區",
+                "name": "鴨母寮公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2045948,
+                    22.9985702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "中西區",
+                "name": "永樂公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.19829099999993,
+                    22.996698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "中西區",
+                "name": "西門公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.19807500000002,
+                    22.9934451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "永康區",
+                "name": "永康公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.256937,
+                    23.025697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "中西區",
+                "name": "沙卡里巴公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.19626599999992,
+                    22.9922891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "歸仁區",
+                "name": "歸仁公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29603729999997,
+                    22.9650555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "新營區",
+                "name": "新營第一公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31333199999995,
+                    23.302508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "東區",
+                "name": "虎尾寮公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.23988600000007,
+                    22.985403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "area": "南區",
+                "name": "金華公有零售市場"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.18861300000003,
+                    22.977064
+                ]
+            }
+        }
+    ]
+}
