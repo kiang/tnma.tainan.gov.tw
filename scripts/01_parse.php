@@ -105,6 +105,11 @@ for ($i = 1; $i <= 7; $i++) {
         $parts = explode('"', substr($raw, $rawPos, $rawPosEnd - $rawPos));
         $data['latitude'] = isset($parts[2]) ? floatval($parts[2]) : 0.0;
         $data['longitude'] = isset($parts[10]) ? floatval($parts[10]) : 0.0;
+        if($data['latitude'] > $data['longitude']) {
+            $tmp = $data['latitude'];
+            $data['latitude'] = $data['longitude'];
+            $data['longitude'] = $tmp;
+        }
         $dataPath = dirname(__DIR__) . '/docs/data/' . $data['area'];
         if (!file_exists($dataPath)) {
             mkdir($dataPath, 0777, true);
